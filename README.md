@@ -18,11 +18,6 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 *Shells ... .*
 
-[comment]: <> (https://github.com/unixorn/awesome-zsh-plugins)
-[comment]: <> (https://github.com/kahun/awesome-sysadmin)
-[comment]: <> (https://github.com/jondot/awesome-devenv)
-[comment]: <> (https://github.com/awesome-lists/awesome-bash)
-
 * ZSH
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
