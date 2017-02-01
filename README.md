@@ -18,6 +18,11 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 *Shells ... .*
 
+[//]: <> (https://github.com/unixorn/awesome-zsh-plugins)
+[//]: <> (https://github.com/kahun/awesome-sysadmin)
+[//]: <> (https://github.com/jondot/awesome-devenv)
+[//]: <> (https://github.com/awesome-lists/awesome-bash)
+
 * ZSH
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
@@ -74,8 +79,27 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 *Package Managers ... .*
 
-* [](https://github.com/...) - A library ...
-
+* Universal
+	* [pip](http://www.pip-installer.org/)
+	* [easyinstall](http://pypi.python.org/pypi/setuptools)
+	* [npmjs](http://npmjs.com/)
+	* [bower](http://bower.io/)
+	* [duo](http://duojs.org/)
+* OS X
+	* [homebrew](http://brew.sh/) - 
+	* [fink](http://www.finkproject.org/) - 
+	* [macports](http://www.macports.org/) - 
+* Linux
+	* [pkg](https://github.com/freebsd/pkg)
+	* [linuxbrew](http://brew.sh/linuxbrew/)
+	* [pkgin](http://pkgin.net/)
+* Windows
+	* [oneget](https://github.com/OneGet/oneget)
+	* [chocolatey](https://chocolatey.org/)
+	* [cygwin](https://cygwin.com/)
+	* [ninite](https://ninite.com/)
+	* [ruckzuck](http://ruckzuck.tools/)
+	* [wpkg](http://windowspackager.org/documentation/wpkg) 
 
 
 ## CLI Editors
