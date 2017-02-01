@@ -7,15 +7,15 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 		- ZSH
 		- Bash
 		- Git
-	- [Cool Tools](#cool-tools)
+	- [️Terminal Emulation Apps](#terminal-emulation-apps)
 	- [Package Managers](#package-managers)
 		- Universal
 		- Mac OS X
 		- Linux
 		- Windows
 	- [CLI Editors](#cli-editors)
+	- [Cool Tools](#cool-tools)
 	- [Terminal Libraries](#terminal-libraries)
-	- [️Terminal Emulation Apps](#terminal-emulation-apps)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
