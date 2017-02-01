@@ -1,4 +1,4 @@
-# Terminals Are Sexy
+# Terminals Are Sexy 💃
 
 A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
