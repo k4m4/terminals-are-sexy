@@ -75,26 +75,26 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 *Package Managers ... .*
 
 * Universal
-	* [pip](http://www.pip-installer.org/)
-	* [easyinstall](http://pypi.python.org/pypi/setuptools)
-	* [npmjs](http://npmjs.com/)
-	* [bower](http://bower.io/)
-	* [duo](http://duojs.org/)
+	* [pip](http://www.pip-installer.org/) - 
+	* [easyinstall](http://pypi.python.org/pypi/setuptools) - 
+	* [npmjs](http://npmjs.com/) - 
+	* [bower](http://bower.io/) - 
+	* [duo](http://duojs.org/) - 
 * OS X
 	* [homebrew](http://brew.sh/) - 
 	* [fink](http://www.finkproject.org/) - 
 	* [macports](http://www.macports.org/) - 
 * Linux
-	* [pkg](https://github.com/freebsd/pkg)
-	* [linuxbrew](http://brew.sh/linuxbrew/)
-	* [pkgin](http://pkgin.net/)
+	* [pkg](https://github.com/freebsd/pkg) - 
+	* [linuxbrew](http://brew.sh/linuxbrew/) - 
+	* [pkgin](http://pkgin.net/) - 
 * Windows
-	* [oneget](https://github.com/OneGet/oneget)
-	* [chocolatey](https://chocolatey.org/)
-	* [cygwin](https://cygwin.com/)
-	* [ninite](https://ninite.com/)
-	* [ruckzuck](http://ruckzuck.tools/)
-	* [wpkg](http://windowspackager.org/documentation/wpkg) 
+	* [oneget](https://github.com/OneGet/oneget) - 
+	* [chocolatey](https://chocolatey.org/) - 
+	* [cygwin](https://cygwin.com/) - 
+	* [ninite](https://ninite.com/) - 
+	* [ruckzuck](http://ruckzuck.tools/) - 
+	* [wpkg](http://windowspackager.org/documentation/wpkg) - 
 
 
 ## CLI Editors
