@@ -62,12 +62,22 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 
 
-## Cool Tools
+## Terminal Emulation Apps
 
-*Cool Tools ... .*
+*Terminal Emulation Apps ... .*
 
-* [](https://github.com/...) - A library ...
-
+* [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+* [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
+* [PuTTY](http://www.putty.org/) - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. 
+* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! 
+* [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
+* [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
+* [MacTerm](http://www.macterm.net/) - Powerful replacement for macOS Terminal.
+* [xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
+* [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
+* [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
+* [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
 
 
 ## Package Managers
@@ -85,7 +95,7 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 	* [fink](http://www.finkproject.org/) - 
 	* [macports](http://www.macports.org/) - 
 * Linux
-	* [pkg](https://github.com/freebsd/pkg) - 
+	* [pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
 	* [linuxbrew](http://brew.sh/linuxbrew/) - 
 	* [pkgin](http://pkgin.net/) - 
 * Windows
@@ -94,7 +104,18 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 	* [cygwin](https://cygwin.com/) - 
 	* [ninite](https://ninite.com/) - 
 	* [ruckzuck](http://ruckzuck.tools/) - 
-	* [wpkg](http://windowspackager.org/documentation/wpkg) - 
+	* [wpkg](http://windowspackager.org/documentation/wpkg) - PackageManagement (aka OneGet) is a package manager for Window.
+
+
+
+
+## Cool Tools
+
+*Cool Tools ... .*
+
+* [](https://github.com/...) - A library ...
+
+
 
 
 ## CLI Editors
@@ -111,13 +132,6 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 * [](https://github.com/...) - A library ...
 
-
-
-## Terminal Emulation Apps
-
-*Terminal Emulation Apps ... .*
-
-* [](https://github.com/...) - A library ...
 
 
 
