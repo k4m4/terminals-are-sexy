@@ -9,6 +9,10 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 		- Git
 	- [Cool Tools](#cool-tools)
 	- [Package Managers](#package-managers)
+		- Universal
+		- Mac OS X
+		- Linux
+		- Windows
 	- [CLI Editors](#cli-editors)
 	- [Terminal Libraries](#terminal-libraries)
 	- [️Terminal Emulation Apps](#terminal-emulation-apps)
@@ -93,7 +97,7 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 	* [npmjs](http://npmjs.com/) - 
 	* [bower](http://bower.io/) - 
 	* [duo](http://duojs.org/) - 
-* OS X
+* Mac OS X
 	* [homebrew](http://brew.sh/) - 
 	* [fink](http://www.finkproject.org/) - 
 	* [macports](http://www.macports.org/) - 
