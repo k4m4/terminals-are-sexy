@@ -4,6 +4,9 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 - [Terminals Are Sexy](#terminals-are-sexy)
 	- [Shells](#shells)
+		- ZSH
+		- Bash
+		- Git
 	- [Cool Tools](#cool-tools)
 	- [Package Managers](#package-managers)
 	- [CLI Editors](#cli-editors)
