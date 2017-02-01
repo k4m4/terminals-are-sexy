@@ -31,8 +31,8 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 	* [zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh.
 	* [zunit](https://github.com/molovo/zunit) - A powerful unit testing framework for ZSH.
 	* [zshdb](https://github.com/rocky/zshdb) - A ZSH debugger.
-	* [zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - 
-	* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - 
+	* [zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple zsh quickstart for using zsh and zgen.
+	* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
 	* [alf](https://github.com/psyrendust/alf) - Alf is an out of this world super fast and configurable framework for zsh.
 	* [ant-zsh](https://github.com/anthraxx/ant-zsh) - Ant-zsh is a tiny and lightweight ZSH configuration environment for special customization needs.
 	* [antigen](https://github.com/zsh-users/antigen) - Antigen is a small set of functions that help you easily manage your shell (zsh) plugins.
