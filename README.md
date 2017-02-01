@@ -1,6 +1,6 @@
 # Terminals Are Sexy
 
-A curated list of Terminal apps, frameworks, libraries, extensions and resources.
+A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 - [Terminals Are Sexy](#terminals-are-sexy)
 	- [🐢Shells](#shells)
@@ -32,7 +32,19 @@ A curated list of Terminal apps, frameworks, libraries, extensions and resources
 	* [zunit](https://github.com/molovo/zunit) - A powerful unit testing framework for ZSH.
 	* [zshdb](https://github.com/rocky/zshdb) - A ZSH debugger.
 	* [zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - 
-	* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+	* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - 
+	* [alf](https://github.com/psyrendust/alf) - Alf is an out of this world super fast and configurable framework for zsh.
+	* [ant-zsh](https://github.com/anthraxx/ant-zsh) - Ant-zsh is a tiny and lightweight ZSH configuration environment for special customization needs.
+	* [antigen](https://github.com/zsh-users/antigen) - Antigen is a small set of functions that help you easily manage your shell (zsh) plugins.
+	* [pumice](https://github.com/ryutamaki/pumice) - Pumice is a lightweight plugin manager for zsh.
+	* [zeesh](https://github.com/zeekay/zeesh) - Zeesh is a cross-platform Zsh framework.
+	* [zilsh](https://github.com/zilsh/zilsh) - Zilsh is a zsh config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.
+	* [zim](https://github.com/Eriner/zim) - Zim is a Zsh configuration framework with blazing speed and modular extensions.
+	* [zoppo](https://github.com/zoppo/zoppo) - Zoppo is the crippled configuration framework for Zsh.
+	* [zpm](https://github.com/horosgrisa/ZPM) - ZPM is a plugin manager for zsh similar to vim-plug.
+	* [ztanesh](https://github.com/miohtama/ztanesh) - Ztanesh aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
+	* [zulu](https://github.com/zulu-zsh/zulu) - Zulu is a total environment manager for ZSH 5+.
+	* [zsh-pony](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
 * Bash
  	* [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
  	* [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
