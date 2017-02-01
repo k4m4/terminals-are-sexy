@@ -32,8 +32,20 @@ A curated list of Terminal apps, frameworks, libraries, extensions and resources
 	* [zunit](https://github.com/molovo/zunit)
 	* [zshdb](https://github.com/rocky/zshdb)
 	* [zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit)
-* 
-* GIT
+* Bash
+ 	* [bash-sensible](https://github.com/mrzool/bash-sensible)
+ 	* [bash-powerline](https://github.com/riobard/bash-powerline)
+ 	* [bashtrap](https://github.com/barryclark/bashstrap)
+ 	* [liquidprompt](https://github.com/nojhan/liquidprompt)
+ 	* [hstr](https://github.com/dvorka/hstr)
+ 	* [aliases](https://github.com/sebglazebrook/aliases)
+* Git
+	* [git-prompt](https://github.com/lvv/git-prompt)
+	* [gittify](https://github.com/momeni/gittify)
+	* [oh-my-git](https://github.com/arialdomartini/oh-my-git)
+	* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
+	* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt)
+	* [git-sh](https://github.com/rtomayko/git-sh)
 
 ## Cool Tools
 
