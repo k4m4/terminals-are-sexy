@@ -3,12 +3,12 @@
 A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 - [Terminals Are Sexy](#terminals-are-sexy)
-	- [🐢Shells](#shells)
-	- [😎Cool Tools](#cool-tools)
-	- [📦Package Managers](#package-managers)
-	- [⌨️CLI Editors](#cli-editors)
-	- [📚Terminal Libraries](#terminal-libraries)
-	- [✳️Terminal Emulation Apps](#terminal-emulation-apps)
+	- [Shells](#shells)
+	- [Cool Tools](#cool-tools)
+	- [Package Managers](#package-managers)
+	- [CLI Editors](#cli-editors)
+	- [Terminal Libraries](#terminal-libraries)
+	- [️Terminal Emulation Apps](#terminal-emulation-apps)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
