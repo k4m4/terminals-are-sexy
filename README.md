@@ -92,28 +92,26 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 *Package Managers ... .*
 
 * Universal
-	* [pip](http://www.pip-installer.org/) - 
-	* [easyinstall](http://pypi.python.org/pypi/setuptools) - 
-	* [npmjs](http://npmjs.com/) - 
-	* [bower](http://bower.io/) - 
-	* [duo](http://duojs.org/) - 
+	* [pip](http://www.pip-installer.org/) - pip is a package management system used to install and manage software packages written in Python.
+	* [easyinstall](http://pypi.python.org/pypi/setuptools) - Easily download, build, install, upgrade, and uninstall Python packages.
+	* [npmjs](http://npmjs.com/) - npm is the package manager for JavaScript.
+	* [bower](http://bower.io/) - A package manager for the web.
+	* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
 * Mac OS X
-	* [homebrew](http://brew.sh/) - 
-	* [fink](http://www.finkproject.org/) - 
-	* [macports](http://www.macports.org/) - 
+	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
+	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
+	* [macports](http://www.macports.org/) - MacPorts is a package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
 * Linux
 	* [pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
-	* [linuxbrew](http://brew.sh/linuxbrew/) - 
-	* [pkgin](http://pkgin.net/) - 
+	* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
+	* [pkgin](http://pkgin.net/) - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
 * Windows
-	* [oneget](https://github.com/OneGet/oneget) - 
-	* [chocolatey](https://chocolatey.org/) - 
-	* [cygwin](https://cygwin.com/) - 
-	* [ninite](https://ninite.com/) - 
-	* [ruckzuck](http://ruckzuck.tools/) - 
-	* [wpkg](http://windowspackager.org/documentation/wpkg) - PackageManagement (aka OneGet) is a package manager for Window.
-
-
+	* [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Window.
+	* [chocolatey](https://chocolatey.org/) - The package manager for Windows.
+	* [cygwin](https://cygwin.com/) - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.
+	* [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
+	* [ruckzuck](http://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software...
+	* [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
 
 
 ## Cool Tools
