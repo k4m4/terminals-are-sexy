@@ -167,7 +167,6 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 * [/r/osxterminal](https://www.reddit.com/r/osxterminal) - Tips for using terminal.app in OS X.
 * [/r/zsh/](https://www.reddit.com/r/zsh/) - Everything on zsh.
 * [/r/unixporn/](https://www.reddit.com/r/unixporn/) - Everything on unix.
-
 * [#bash](https://webchat.freenode.net/?channels=bash) - Bash IRC channel on freenode.
 * [stackoverflow](stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
 
