@@ -1,19 +1,20 @@
 # Terminals Are Sexy 💃
 
-A curated list of Terminal apps, frameworks, libraries, extensions & resources.
+A curated list of awesome Terminal apps, frameworks, libraries, extensions & resources.
 
 - [Terminals Are Sexy](#terminals-are-sexy)
 	- [Shells](#shells)
+		- Base Shells
 		- ZSH
 		- Bash
 		- Git
-	- [️Terminal Emulation Apps](#terminal-emulation-apps)
+	- [️Terminal Emulation Applications](#terminal-emulation-applications)
 	- [Package Managers](#package-managers)
 		- Universal
 		- Mac OS X
 		- Linux
 		- Windows
-	- [CLI Editors](#cli-editors)
+	- [CLI Text Editors](#cli-text-editors)
 	- [Cool Tools](#cool-tools)
 	- [Terminal Libraries](#terminal-libraries)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -25,6 +26,11 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 *Shells ... .*
 
+* Base Shells
+	* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
+	* [zsh](http://www.zsh.org/) - Powerful shell with scripting language.
+	* [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
+	* [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
 * ZSH
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
@@ -69,7 +75,7 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 
 
-## Terminal Emulation Apps
+## Terminal Emulation Applications
 
 *Terminal Emulation Apps ... .*
 
@@ -97,6 +103,9 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 	* [npmjs](http://npmjs.com/) - npm is the package manager for JavaScript.
 	* [bower](http://bower.io/) - A package manager for the web.
 	* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
+	* [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
+	* [bkpg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+	* [gems]() - 
 * Mac OS X
 	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
 	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
@@ -123,7 +132,7 @@ A curated list of Terminal apps, frameworks, libraries, extensions & resources.
 
 
 
-## CLI Editors
+## CLI Text Editors
 
 *CLI Editors ... .*
 
