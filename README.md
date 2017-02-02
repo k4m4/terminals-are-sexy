@@ -14,11 +14,11 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 		- Mac OS X
 		- Linux
 		- Windows
-	- [CLI Text Editors](#cli-text-editors)
-	- [CLI Applications](#cli-applications)
-	- [CLI Communication](#cli-communication)
+	- [Text Editors](#text-editors)
+	- [Applications](#applications)
+	- [Communication](#communication)
 - [Community](#community)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Sexy Lists](#other-sexy-lists)
 - [Contributing](#contributing)
 
 - - -
@@ -124,7 +124,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 	* [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
 
 
-## CLI Text Editors
+## Text Editors
 
 *Sexy text editors for your Command Line Interface.*
 
@@ -135,7 +135,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 
 
-## CLI Applications
+## Applications
 
 *Sexy Applications for your Command Line Interface.*
 
@@ -146,7 +146,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 
 
-## CLI Communication
+## Communication
 
 *Sexy Tools for communicating through the Command Line Interface.*
 
@@ -155,6 +155,8 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 * [centerim](http://www.centerim.org/index.php/Main_Page) - CenterIM is a terminal based, multi-protocol Instant Messaging client with support for IRC.
 * [weechat](http://www.weechat.org/) - WeeChat is a fast, light and extensible chat client.
 * [epic](http://www.epicsol.org/) - EPIC is a IRC client that has been under active development for 20+ years in 5 generations.
+* [slacker](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI.
+* [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - simple jira command line client in Go.
 
 
 # Community
@@ -163,17 +165,23 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 
 * [/r/commandline](https://www.reddit.com/r/commandline) - This is for anything regarding the command line, in any operating system.
 * [/r/osxterminal](https://www.reddit.com/r/osxterminal) - Tips for using terminal.app in OS X.
-* []()
+* [/r/zsh/](https://www.reddit.com/r/zsh/) - Everything on zsh.
+* [/r/unixporn/](https://www.reddit.com/r/unixporn/) - Everything on unix.
+
+* [#bash](https://webchat.freenode.net/?channels=bash) - Bash IRC channel on freenode.
+* [stackoverflow](stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
 
 
-# Other Awesome Lists
+# Other Sexy Lists
 
-*Here are some more awesome lists.*
+*Here are some more sexy lists.*
 
-* Blah
-    * [](https://github.com/...)
-* Blah
-    * [](https://github.com/...)
+* Awesome
+    * [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of delightful Bash scripts and resources.
+    * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+    * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+* Misc
+    * [public-apis](https://github.com/abhishekbanthia/Public-APIs) - A curated list of APIs from round the web.
 
 # Contributing
 
