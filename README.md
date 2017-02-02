@@ -184,6 +184,6 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines]() first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/k4m4/terminals-are-sexy/blob/master/CONTRIBUTING.md) first.
 
 Pull requests might be kept open if I haven't decided whether additions are *sexy* enough.
