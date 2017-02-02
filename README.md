@@ -1,4 +1,4 @@
-# Terminals Are Sexy 💃
+# Terminals Are Sexy
 
 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
@@ -177,7 +177,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 * Awesome
     * [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of delightful Bash scripts and resources.
-    * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+    * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
     * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * Misc
     * [public-apis](https://github.com/abhishekbanthia/Public-APIs) - A curated list of APIs from round the web.
