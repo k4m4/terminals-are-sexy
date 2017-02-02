@@ -1,6 +1,6 @@
-# Terminals Are Sexy 💃
+# Terminals Are Sexy
 
-A curated list of awesome Terminal apps, frameworks, libraries, extensions & resources.
+A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 - [Terminals Are Sexy](#terminals-are-sexy)
 	- [Shells](#shells)
@@ -8,23 +8,24 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 		- ZSH
 		- Bash
 		- Git
-	- [️Terminal Emulation Applications](#terminal-emulation-applications)
+	- [Terminal Emulation Applications](#terminal-emulation-applications)
 	- [Package Managers](#package-managers)
 		- Universal
 		- Mac OS X
 		- Linux
 		- Windows
-	- [CLI Text Editors](#cli-text-editors)
-	- [Cool Tools](#cool-tools)
-	- [Terminal Libraries](#terminal-libraries)
-- [Other Awesome Lists](#other-awesome-lists)
+	- [Text Editors](#text-editors)
+	- [Applications](#applications)
+	- [Communication](#communication)
+- [Community](#community)
+- [Other Sexy Lists](#other-sexy-lists)
 - [Contributing](#contributing)
 
 - - -
 
 ## Shells
 
-*Shells ... .*
+*Sexy frameworks, plugins and resources for your sexy shell.*
 
 * Base Shells
 	* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
@@ -77,7 +78,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 
 ## Terminal Emulation Applications
 
-*Terminal Emulation Apps ... .*
+*Sexy 3rd party terminal emulation applications.*
 
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
@@ -95,7 +96,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 
 ## Package Managers
 
-*Package Managers ... .*
+*Sexy package managers for your OS X, Linux & Windows CLIs.*
 
 * Universal
 	* [pip](http://www.pip-installer.org/) - pip is a package management system used to install and manage software packages written in Python.
@@ -105,15 +106,22 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 	* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
 	* [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 	* [bkpg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
-	* [gems]() - 
+	* [rubygems](https://rubygems.org/) - RubyGems is the Ruby community’s gem hosting service.
 * Mac OS X
 	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
 	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
 	* [macports](http://www.macports.org/) - MacPorts is a package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
+	* [Nix package manager](https://nixos.org/nix/) - Provides atomic upgrades and rollbacks, side-by-side installation of multiple versions of a package, multi-user package management and easy setup of build environments.
 * Linux
+	* [dpkg](https://wiki.debian.org/Teams/Dpkg) - Originally used by Debian and now by Ubuntu. Uses the .deb format and was the first to have a widely known dependency resolution tool, APT. The ncurses-based front-end for APT.
 	* [pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
 	* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
 	* [pkgin](http://pkgin.net/) - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
+	* [Snappy](https://snapcraft.io) -  Cross-distribution package manager
+	* [RPM Package Manager](http://rpm.org) -  Is the Linux Standard Base packaging format and the base of a number of additional tools created by Red Hat.
+	* [pacman](https://wiki.archlinux.org/index.php/pacman) - A simple library-based package manager
+	* [Nix package manager](https://nixos.org/nix/) - Provides atomic upgrades and rollbacks, side-by-side installation of multiple versions of a package, multi-user package management and easy setup of build environments.
+	* [OpenPKG](http://www.openpkg.org) - Cross-platform package management system based on RPM Package Manager
 * Windows
 	* [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Window.
 	* [chocolatey](https://chocolatey.org/) - The package manager for Windows.
@@ -123,44 +131,66 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 	* [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
 
 
-## Cool Tools
+## Text Editors
 
-*Cool Tools ... .*
+*Sexy text editors for your Command Line Interface.*
 
-* [](https://github.com/...) - A library ...
-
-
-
-
-## CLI Text Editors
-
-*CLI Editors ... .*
-
-* [](https://github.com/...) - A library ...
+* [vim](http://www.vim.org/) - Vim is an extensively configurable, cross-platform and highly efficient text editor.
+* [emacs](https://www.gnu.org/software/emacs/) - Emacs is cross-platform and has both command-line and graphical user interface.
+* [nano](http://www.nano-editor.org/) - A text editor for Unix-like computing systems or operating environments using a command line interface.
+* [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
+* [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 
 
+## Applications
 
-## Terminal Libraries
+*Sexy Applications for your Command Line Interface.*
 
-*Terminal Libraries ... .*
+* [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
+* [redit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
+* [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager.
+* [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
+* [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 
-* [](https://github.com/...) - A library ...
+
+## Communication
+
+*Sexy Tools for communicating through the Command Line Interface.*
+
+* [irssi](https://irssi.org/) - Irssi is the self proclaimed client of the future and my favorite IRC client.
+* [bitchx](http://www.bitchx.com/) - BitchX is a feature-rich and highly configurable, terminal based IRC client based on ircII.
+* [centerim](http://www.centerim.org/index.php/Main_Page) - CenterIM is a terminal based, multi-protocol Instant Messaging client with support for IRC.
+* [weechat](http://www.weechat.org/) - WeeChat is a fast, light and extensible chat client.
+* [epic](http://www.epicsol.org/) - EPIC is a IRC client that has been under active development for 20+ years in 5 generations.
+* [slacker](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI.
+* [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - simple jira command line client in Go.
 
 
+# Community
+
+*Join the CLI lover community.*
+
+* [/r/commandline](https://www.reddit.com/r/commandline) - This is for anything regarding the command line, in any operating system.
+* [/r/osxterminal](https://www.reddit.com/r/osxterminal) - Tips for using terminal.app in OS X.
+* [/r/zsh/](https://www.reddit.com/r/zsh/) - Everything on zsh.
+* [/r/unixporn/](https://www.reddit.com/r/unixporn/) - Everything on unix.
+* [#bash](https://webchat.freenode.net/?channels=bash) - Bash IRC channel on freenode.
+* [stackoverflow](stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
 
 
+# Other Sexy Lists
 
-# Other Awesome Lists
+*Here are some more sexy lists.*
 
-List of lists.
-
-* Blah
-    * [](https://github.com/sindresorhus/awesome)
-* Blah
-    * [](https://github.com/...)
+* Awesome
+    * [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of delightful Bash scripts and resources.
+    * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+    * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+* Misc
+    * [public-apis](https://github.com/abhishekbanthia/Public-APIs) - A curated list of APIs from round the web.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/terminals-are-sexy/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/k4m4/terminals-are-sexy/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+Pull requests might be kept open if I haven't decided whether additions are *sexy* enough.
