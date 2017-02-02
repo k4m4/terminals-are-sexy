@@ -1,6 +1,6 @@
 # Terminals Are Sexy 💃
 
-A curated list of awesome Terminal apps, frameworks, libraries, plugins & resources.
+A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 - [Terminals Are Sexy](#terminals-are-sexy)
 	- [Shells](#shells)
