@@ -105,7 +105,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 	* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
 	* [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 	* [bkpg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
-	* [gems]() - 
+	* [rubygems](https://rubygems.org/) - RubyGems is the Ruby community’s gem hosting service.
 * Mac OS X
 	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
 	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
