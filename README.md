@@ -123,21 +123,22 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 	* [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
 
 
+## CLI Text Editors
+
+*CLI Editors ... .*
+
+* [vim](http://www.vim.org/) - Vim is an extensively configurable, cross-platform and highly efficient text editor.
+* [emacs](https://www.gnu.org/software/emacs/) - Emacs is cross-platform and has both command-line and graphical user interface.
+* [nano](http://www.nano-editor.org/) - 
+* [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
+* [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
+
+
 ## Cool Tools
 
 *Cool Tools ... .*
 
 * [](https://github.com/...) - A library ...
-
-
-
-
-## CLI Text Editors
-
-*CLI Editors ... .*
-
-* [](https://github.com/...) - A library ...
-
 
 
 ## Terminal Libraries
@@ -147,12 +148,9 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 * [](https://github.com/...) - A library ...
 
 
-
-
-
 # Other Awesome Lists
 
-List of lists.
+*Here are some more awesome lists.*
 
 * Blah
     * [](https://github.com/sindresorhus/awesome)
