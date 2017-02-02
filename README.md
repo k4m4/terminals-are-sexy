@@ -1,6 +1,6 @@
 # Terminals Are Sexy 💃
 
-A curated list of awesome Terminal apps, frameworks, libraries, extensions & resources.
+A curated list of awesome Terminal apps, frameworks, libraries, plugins & resources.
 
 - [Terminals Are Sexy](#terminals-are-sexy)
 	- [Shells](#shells)
@@ -15,7 +15,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 		- Linux
 		- Windows
 	- [CLI Text Editors](#cli-text-editors)
-	- [Cool Tools](#cool-tools)
+	- [CLI Applications](#cli-applications)
 	- [Terminal Libraries](#terminal-libraries)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -24,7 +24,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 
 ## Shells
 
-*Shells ... .*
+*Sexy frameworks, plugins and resources for your sexy shell.*
 
 * Base Shells
 	* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
@@ -77,7 +77,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 
 ## Terminal Emulation Applications
 
-*Terminal Emulation Apps ... .*
+*Sexy 3rd party terminal emulation applications.*
 
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
@@ -95,7 +95,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 
 ## Package Managers
 
-*Package Managers ... .*
+*Sexy package managers for your OS X, Linux & Windows CLIs.*
 
 * Universal
 	* [pip](http://www.pip-installer.org/) - pip is a package management system used to install and manage software packages written in Python.
@@ -125,18 +125,18 @@ A curated list of awesome Terminal apps, frameworks, libraries, extensions & res
 
 ## CLI Text Editors
 
-*CLI Editors ... .*
+*Sexy text editors for your Command Line Interface.*
 
 * [vim](http://www.vim.org/) - Vim is an extensively configurable, cross-platform and highly efficient text editor.
 * [emacs](https://www.gnu.org/software/emacs/) - Emacs is cross-platform and has both command-line and graphical user interface.
-* [nano](http://www.nano-editor.org/) - 
+* [nano](http://www.nano-editor.org/) - A text editor for Unix-like computing systems or operating environments using a command line interface.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 
 
-## Cool Tools
+## CLI Applications
 
-*Cool Tools ... .*
+*Sexy Applications for your Command Line Interface.*
 
 * [](https://github.com/...) - A library ...
 
