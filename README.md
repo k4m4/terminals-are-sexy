@@ -8,7 +8,7 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 		- ZSH
 		- Bash
 		- Git
-	- [️Terminal Emulation Applications](#terminal-emulation-applications)
+	- [Terminal Emulation Applications](#terminal-emulation-applications)
 	- [Package Managers](#package-managers)
 		- Universal
 		- Mac OS X
