@@ -16,7 +16,8 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 		- Windows
 	- [CLI Text Editors](#cli-text-editors)
 	- [CLI Applications](#cli-applications)
-	- [Terminal Libraries](#terminal-libraries)
+	- [CLI Communication](#cli-communication)
+- [Community](#community)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -138,14 +139,31 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 
 *Sexy Applications for your Command Line Interface.*
 
-* [](https://github.com/...) - A library ...
+* [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
+* [redit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
+* [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager.
+* [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
+* [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 
 
-## Terminal Libraries
+## CLI Communication
 
-*Terminal Libraries ... .*
+*Sexy Tools for communicating through the Command Line Interface.*
 
-* [](https://github.com/...) - A library ...
+* [irssi](https://irssi.org/) - Irssi is the self proclaimed client of the future and my favorite IRC client.
+* [bitchx](http://www.bitchx.com/) - BitchX is a feature-rich and highly configurable, terminal based IRC client based on ircII.
+* [centerim](http://www.centerim.org/index.php/Main_Page) - CenterIM is a terminal based, multi-protocol Instant Messaging client with support for IRC.
+* [weechat](http://www.weechat.org/) - WeeChat is a fast, light and extensible chat client.
+* [epic](http://www.epicsol.org/) - EPIC is a IRC client that has been under active development for 20+ years in 5 generations.
+
+
+# Community
+
+*Join the CLI lover community.*
+
+* [/r/commandline](https://www.reddit.com/r/commandline) - This is for anything regarding the command line, in any operating system.
+* [/r/osxterminal](https://www.reddit.com/r/osxterminal) - Tips for using terminal.app in OS X.
+* []()
 
 
 # Other Awesome Lists
