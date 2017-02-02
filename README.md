@@ -161,4 +161,4 @@ A curated list of awesome Terminal apps, frameworks, libraries, plugins & resour
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines]() first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them]() by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+Pull requests might be kept open if I haven't decided whether additions are *sexy* enough.
