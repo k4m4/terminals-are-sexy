@@ -111,10 +111,17 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
 	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
 	* [macports](http://www.macports.org/) - MacPorts is a package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
+	* [Nix package manager](https://nixos.org/nix/) - Provides atomic upgrades and rollbacks, side-by-side installation of multiple versions of a package, multi-user package management and easy setup of build environments.
 * Linux
+	* [dpkg](https://wiki.debian.org/Teams/Dpkg) - Originally used by Debian and now by Ubuntu. Uses the .deb format and was the first to have a widely known dependency resolution tool, APT. The ncurses-based front-end for APT.
 	* [pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
 	* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
 	* [pkgin](http://pkgin.net/) - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
+	* [Snappy](https://snapcraft.io) -  Cross-distribution package manager
+	* [RPM Package Manager](http://rpm.org) -  Is the Linux Standard Base packaging format and the base of a number of additional tools created by Red Hat.
+	* [pacman](https://wiki.archlinux.org/index.php/pacman) - A simple library-based package manager
+	* [Nix package manager](https://nixos.org/nix/) - Provides atomic upgrades and rollbacks, side-by-side installation of multiple versions of a package, multi-user package management and easy setup of build environments.
+	* [OpenPKG](http://www.openpkg.org) - Cross-platform package management system based on RPM Package Manager
 * Windows
 	* [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Window.
 	* [chocolatey](https://chocolatey.org/) - The package manager for Windows.
