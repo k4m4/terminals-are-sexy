@@ -144,6 +144,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
+* [htop](http://hisham.hm/htop/) - A cool looking and interactive process viewer 'replacement' for the top command.
 
 
 ## Communication
