@@ -15,7 +15,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 		- Linux
 		- Windows
 	- [Text Editors](#text-editors)
-	- [Tools & Plugins](#tools-plugins)
+	- [Tools and Plugins](#tools-and-plugins)
 	- [Communication](#communication)
 - [Community](#community)
 - [Other Sexy Lists](#other-sexy-lists)
@@ -136,7 +136,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 
 
-## Tools & Plugins
+## Tools and Plugins
 
 *Sexy Applications for your Command Line Interface.*
 
