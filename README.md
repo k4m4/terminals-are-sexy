@@ -15,7 +15,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 		- Linux
 		- Windows
 	- [Text Editors](#text-editors)
-	- [Applications](#applications)
+	- [Tools & Plugins](#tools-&-plugins)
 	- [Communication](#communication)
 - [Community](#community)
 - [Other Sexy Lists](#other-sexy-lists)
@@ -66,6 +66,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
  	* [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
  	* [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
  	* [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
+ 	* [bash-it](https://github.com/Bash-it/bash-it) - Bash-it is a collection of community Bash commands and scripts.
 * Git
 	* [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
 	* [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
@@ -135,7 +136,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 
 
-## Applications
+## Tools & Plugins
 
 *Sexy Applications for your Command Line Interface.*
 
@@ -145,6 +146,11 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [htop](http://hisham.hm/htop/) - A cool looking and interactive process viewer 'replacement' for the top command.
+* [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+* [ack](http://beyondgrep.com/) - ack is a tool like grep, optimized for programmers.
+* [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+* [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl.
+
 
 
 ## Communication
