@@ -15,7 +15,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 		- Linux
 		- Windows
 	- [Text Editors](#text-editors)
-	- [Tools & Plugins](#tools-&-plugins)
+	- [Tools & Plugins](#tools--plugins)
 	- [Communication](#communication)
 - [Community](#community)
 - [Other Sexy Lists](#other-sexy-lists)
