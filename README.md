@@ -93,6 +93,8 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
 * [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
+* [DTerm](http://decimus.net/DTerm) - A command line anywhere and everywhere.
+* [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 
 
 ## Package Managers
@@ -121,7 +123,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [chocolatey](https://chocolatey.org/) - The package manager for Windows.
 	* [cygwin](https://cygwin.com/) - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.
 	* [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
-	* [ruckzuck](http://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software...
+	* [ruckzuck](http://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
 	* [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
 
 
@@ -150,7 +152,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [ack](http://beyondgrep.com/) - ack is a tool like grep, optimized for programmers.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl.
-
+* [bro](http://bropages.org/) - examples for command line programs.
 
 
 ## Communication
@@ -186,8 +188,12 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
     * [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of delightful Bash scripts and resources.
     * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
     * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+    * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.
 * Misc
     * [public-apis](https://github.com/abhishekbanthia/Public-APIs) - A curated list of APIs from round the web.
+    * [free-programming-books](https://github.com/vhf/free-programming-books) - Freely available programming books.
+    * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.
+    * [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - A collection of cheatsheets for various infosec tools and topics.
 
 # Contributing
 
