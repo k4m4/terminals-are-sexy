@@ -1,3 +1,5 @@
+![Terminals_Are_Sexy_Logo](http://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)
+
 # Terminals Are Sexy
 
 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
