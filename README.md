@@ -158,6 +158,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl.
 * [bro](http://bropages.org/) - examples for command line programs.
 * [tmux](https://tmux.github.io/) - a terminal multiplexer.
+* [ranger](http://ranger.nongnu.org/) - a console file manager with vi key bindings.
 
 
 ## Communication
