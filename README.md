@@ -183,7 +183,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [/r/zsh/](https://www.reddit.com/r/zsh/) - Everything on zsh.
 * [/r/unixporn/](https://www.reddit.com/r/unixporn/) - Everything on unix.
 * [#bash](https://webchat.freenode.net/?channels=bash) - Bash IRC channel on freenode.
-* [stackoverflow](stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
+* [stackoverflow](https://stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
 
 
 # Other Sexy Lists
