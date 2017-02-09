@@ -139,6 +139,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [nano](http://www.nano-editor.org/) - A text editor for Unix-like computing systems or operating environments using a command line interface.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
+* [kakoune](http://kakoune.org/) - A modal editor with multiple selections and orthogonal design.
 
 
 ## Tools and Plugins
