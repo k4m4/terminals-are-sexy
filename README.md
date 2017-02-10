@@ -99,6 +99,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [DTerm](http://decimus.net/DTerm) - A command line anywhere and everywhere.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) - A vintage terminal for macOS.
+* [Termite](https://github.com/thestinger/termite/) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 
 
 ## Package Managers
