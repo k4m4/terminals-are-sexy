@@ -87,8 +87,8 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [PuTTY](http://www.putty.org/) - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. 
-* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! 
+* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
+* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 * [MacTerm](http://www.macterm.net/) - Powerful replacement for macOS Terminal.
@@ -162,6 +162,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [bro](http://bropages.org/) - examples for command line programs.
 * [tmux](https://tmux.github.io/) - a terminal multiplexer.
 * [ranger](http://ranger.nongnu.org/) - a console file manager with vi key bindings.
+* [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal.
 
 
 ## Communication
