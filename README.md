@@ -100,6 +100,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) - A vintage terminal for macOS.
 * [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+* [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 
 
 ## Package Managers
@@ -142,6 +143,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](http://kakoune.org/) - A modal editor with multiple selections and orthogonal design.
+* [vis](https://github.com/martanne/vis) - A highly efficient text editor.
 
 
 ## Tools and Plugins
