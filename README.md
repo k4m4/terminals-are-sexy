@@ -141,6 +141,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](http://kakoune.org/) - A modal editor with multiple selections and orthogonal design.
+* [vis](https://github.com/martanne/vis) - A highly efficient text editor.
 
 
 ## Tools and Plugins
