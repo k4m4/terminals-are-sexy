@@ -98,6 +98,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
 * [DTerm](http://decimus.net/DTerm) - A command line anywhere and everywhere.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
+* [Cathode](http://www.secretgeometry.com/apps/cathode/) - A vintage terminal for macOS.
 
 
 ## Package Managers
