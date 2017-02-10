@@ -4,5 +4,6 @@ site_description: A curated list of awesome Terminal frameworks, extensions & re
 site_author: Nikolaos Kamarinakis
 repo_url: https://github.com/k4m4/terminals-are-sexy
 theme: bootstrap
+google_analytics: ['UA-91770911-1', 'terminalsare.sexy']
 pages:
 - ["We all <3 Terminals.": "index.md"]
