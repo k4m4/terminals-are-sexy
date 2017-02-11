@@ -1,3 +1,5 @@
+![Terminals_Are_Sexy_Logo](http://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)
+
 # Terminals Are Sexy
 
 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -15,7 +17,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 		- Linux
 		- Windows
 	- [Text Editors](#text-editors)
-	- [Applications](#applications)
+	- [Tools and Plugins](#tools-and-plugins)
 	- [Communication](#communication)
 - [Community](#community)
 - [Other Sexy Lists](#other-sexy-lists)
@@ -34,6 +36,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
 * ZSH
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
+	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
 	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 	* [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.
 	* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -66,6 +69,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
  	* [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
  	* [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
  	* [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
+ 	* [bash-it](https://github.com/Bash-it/bash-it) - Bash-it is a collection of community Bash commands and scripts.
 * Git
 	* [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
 	* [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
@@ -92,6 +96,11 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
 * [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
+* [DTerm](http://decimus.net/DTerm) - A command line anywhere and everywhere.
+* [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
+* [Cathode](http://www.secretgeometry.com/apps/cathode/) - A vintage terminal for macOS.
+* [Termite](https://github.com/thestinger/termite/) - A keyboard-centric terminal, aimed at use within a tiling window manager.
+* [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 
 
 ## Package Managers
@@ -105,8 +114,9 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [bower](http://bower.io/) - A package manager for the web.
 	* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
 	* [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-	* [bkpg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+	* [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
 	* [rubygems](https://rubygems.org/) - RubyGems is the Ruby community’s gem hosting service.
+	* [composer](https://getcomposer.org) - Composer is a package manager for PHP.
 * Mac OS X
 	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
 	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
@@ -120,7 +130,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [chocolatey](https://chocolatey.org/) - The package manager for Windows.
 	* [cygwin](https://cygwin.com/) - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.
 	* [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
-	* [ruckzuck](http://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software...
+	* [ruckzuck](http://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
 	* [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
 
 
@@ -133,9 +143,11 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [nano](http://www.nano-editor.org/) - A text editor for Unix-like computing systems or operating environments using a command line interface.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
+* [kakoune](http://kakoune.org/) - A modal editor with multiple selections and orthogonal design.
+* [vis](https://github.com/martanne/vis) - A highly efficient text editor.
 
 
-## Applications
+## Tools and Plugins
 
 *Sexy Applications for your Command Line Interface.*
 
@@ -145,7 +157,13 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [htop](http://hisham.hm/htop/) - A cool looking and interactive process viewer 'replacement' for the top command.
-* [googler](https://github.com/jarun/googler) - Search Google from yor terminal.
+* [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+* [ack](http://beyondgrep.com/) - ack is a tool like grep, optimized for programmers.
+* [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+* [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl.
+* [bro](http://bropages.org/) - examples for command line programs.
+* [tmux](https://tmux.github.io/) - a terminal multiplexer.
+* [ranger](http://ranger.nongnu.org/) - a console file manager with vi key bindings.
 
 
 ## Communication
@@ -170,7 +188,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [/r/zsh/](https://www.reddit.com/r/zsh/) - Everything on zsh.
 * [/r/unixporn/](https://www.reddit.com/r/unixporn/) - Everything on unix.
 * [#bash](https://webchat.freenode.net/?channels=bash) - Bash IRC channel on freenode.
-* [stackoverflow](stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
+* [stackoverflow](https://stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
 
 
 # Other Sexy Lists
@@ -181,8 +199,12 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
     * [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of delightful Bash scripts and resources.
     * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
     * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+    * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.
 * Misc
     * [public-apis](https://github.com/abhishekbanthia/Public-APIs) - A curated list of APIs from round the web.
+    * [free-programming-books](https://github.com/vhf/free-programming-books) - Freely available programming books.
+    * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.
+    * [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - A collection of cheatsheets for various infosec tools and topics.
 
 # Contributing
 
