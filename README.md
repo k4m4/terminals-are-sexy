@@ -113,7 +113,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [bower](http://bower.io/) - A package manager for the web.
 	* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
 	* [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-	* [bkpg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+	* [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
 	* [rubygems](https://rubygems.org/) - RubyGems is the Ruby community’s gem hosting service.
 	* [composer](https://getcomposer.org) - Composer is a package manager for PHP.
 * Mac OS X
