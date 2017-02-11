@@ -34,7 +34,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [zsh](http://www.zsh.org/) - Powerful shell with scripting language.
 	* [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
 	* [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
-	* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! 
+	* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell is an automation and configuration tool/framework that is optimized for dealing with structured data.
 * ZSH
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
