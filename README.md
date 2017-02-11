@@ -79,7 +79,6 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 
 
-
 ## Terminal Emulation Applications
 
 *Sexy 3rd party terminal emulation applications.*
