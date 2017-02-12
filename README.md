@@ -79,7 +79,6 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 
 
-
 ## Terminal Emulation Applications
 
 *Sexy 3rd party terminal emulation applications.*
@@ -100,6 +99,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) - A vintage terminal for macOS.
 * [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+* [Termite](https://github.com/thestinger/termite/) - A keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 
 
@@ -114,8 +114,9 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [bower](http://bower.io/) - A package manager for the web.
 	* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
 	* [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-	* [bkpg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+	* [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
 	* [rubygems](https://rubygems.org/) - RubyGems is the Ruby community’s gem hosting service.
+	* [composer](https://getcomposer.org) - Composer is a package manager for PHP.
 * Mac OS X
 	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
 	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
@@ -163,6 +164,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [bro](http://bropages.org/) - examples for command line programs.
 * [tmux](https://tmux.github.io/) - a terminal multiplexer.
 * [ranger](http://ranger.nongnu.org/) - a console file manager with vi key bindings.
+* [googler](https://github.com/jarun/googler) - Search Google from yor terminal.
 
 
 ## Communication
