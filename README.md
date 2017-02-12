@@ -139,7 +139,9 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 *Sexy text editors for your Command Line Interface.*
 
 * [vim](http://www.vim.org/) - Vim is an extensively configurable, cross-platform and highly efficient text editor.
+    * [SpaceVim](https://spacevim.org) - A community-driven vim distribution
 * [emacs](https://www.gnu.org/software/emacs/) - Emacs is cross-platform and has both command-line and graphical user interface.
+    * [spacemacs](http://spacemacs.org) - A community-driven emacs distribution
 * [nano](http://www.nano-editor.org/) - A text editor for Unix-like computing systems or operating environments using a command line interface.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
