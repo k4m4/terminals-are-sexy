@@ -168,6 +168,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [ranger](http://ranger.nongnu.org/) - a console file manager with vi key bindings.
 * [googler](https://github.com/jarun/googler) - Search Google from yor terminal.
 * [jq.node](https://github.com/FGRibreau/jq.node) - A command-line JSON/string processor, JavaScript and Lodash in your shell
+* [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 
 
 ## Communication
