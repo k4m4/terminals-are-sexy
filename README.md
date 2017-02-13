@@ -170,6 +170,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [googler](https://github.com/jarun/googler) - Search Google from yor terminal.
 * [jq.node](https://github.com/FGRibreau/jq.node) - A command-line JSON/string processor, JavaScript and Lodash in your shell
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+* [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 
 
 ## Communication
