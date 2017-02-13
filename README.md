@@ -165,6 +165,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl.
 * [bro](http://bropages.org/) - examples for command line programs.
+* [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - a terminal multiplexer.
 * [ranger](http://ranger.nongnu.org/) - a console file manager with vi key bindings.
 * [googler](https://github.com/jarun/googler) - Search Google from yor terminal.
