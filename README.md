@@ -171,6 +171,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [jq.node](https://github.com/FGRibreau/jq.node) - A command-line JSON/string processor, JavaScript and Lodash in your shell
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
+* [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 
 ## Communication
