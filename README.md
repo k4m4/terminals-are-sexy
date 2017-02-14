@@ -52,7 +52,6 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
 	* [alf](https://github.com/psyrendust/alf) - Alf is an out of this world super fast and configurable framework for zsh.
 	* [ant-zsh](https://github.com/anthraxx/ant-zsh) - Ant-zsh is a tiny and lightweight ZSH configuration environment for special customization needs.
-	* [antigen](https://github.com/zsh-users/antigen) - Antigen is a small set of functions that help you easily manage your shell (zsh) plugins.
 	* [pumice](https://github.com/ryutamaki/pumice) - Pumice is a lightweight plugin manager for zsh.
 	* [zeesh](https://github.com/zeekay/zeesh) - Zeesh is a cross-platform Zsh framework.
 	* [zilsh](https://github.com/zilsh/zilsh) - Zilsh is a zsh config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.
