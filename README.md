@@ -155,7 +155,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 *Sexy Applications for your Command Line Interface.*
 
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
-* [redit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
+* [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
