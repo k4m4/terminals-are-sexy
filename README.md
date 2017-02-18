@@ -173,6 +173,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file. 
 * [tig](https://github.com/jonas/tig) - Text mode interface for git
+* [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
 
 ## Communication
 
