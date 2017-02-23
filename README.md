@@ -42,6 +42,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 	* [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
 	* [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
+	* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
 	* [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 	* [dotzsh](https://github.com/dotphiles/dotzsh) - A community driven framework for zsh.
 	* [zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH.
