@@ -125,6 +125,7 @@ A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 	* [pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
 	* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
 	* [pkgin](http://pkgin.net/) - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
+	* [sparrow](https://sparrowhub.org/) - scripts repository and scripts package manager rolled into one. Distributes scripts written on Perl5/Bash/Python/Ruby to Linux boxes. 
 * Windows
 	* [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Window.
 	* [chocolatey](https://chocolatey.org/) - The package manager for Windows.
