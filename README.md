@@ -65,6 +65,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [ztanesh](https://github.com/miohtama/ztanesh) - Ztanesh aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
 	* [zulu](https://github.com/zulu-zsh/zulu) - Zulu is a total environment manager for ZSH 5+.
 	* [zsh-pony](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
+	* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of ZSH plugins, completions and themes for [oh-my-zsh](http://ohmyz.sh/) and o-m-z compatible ZSH frameworks.
 * Bash
  	* [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
  	* [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
