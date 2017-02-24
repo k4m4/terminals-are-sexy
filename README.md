@@ -89,8 +89,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [PuTTY](http://www.putty.org/) - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. 
-* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! 
+* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
+* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 * [MacTerm](http://www.macterm.net/) - Powerful replacement for macOS Terminal.
@@ -176,7 +176,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jq.node](https://github.com/FGRibreau/jq.node) - A command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
-* [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file. 
+* [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
 
