@@ -89,8 +89,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [PuTTY](http://www.putty.org/) - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. 
-* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! 
+* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
+* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 * [MacTerm](http://www.macterm.net/) - Powerful replacement for macOS Terminal.
@@ -130,7 +130,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
 	* [pkgin](http://pkgin.net/) - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
 * Windows
-	* [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Window.
+	* [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows.
 	* [chocolatey](https://chocolatey.org/) - The package manager for Windows.
 	* [cygwin](https://cygwin.com/) - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.
 	* [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
@@ -143,9 +143,10 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy text editors for your Command Line Interface.*
 
 * [vim](http://www.vim.org/) - Vim is an extensively configurable, cross-platform and highly efficient text editor.
-    * [SpaceVim](https://spacevim.org) - A community-driven vim distribution
+    * [SpaceVim](https://spacevim.org) - A community-driven vim distribution.
+    * [neovim](https://neovim.io) - Literally the future of vim.
 * [emacs](https://www.gnu.org/software/emacs/) - Emacs is cross-platform and has both command-line and graphical user interface.
-    * [spacemacs](http://spacemacs.org) - A community-driven emacs distribution
+    * [spacemacs](http://spacemacs.org) - A community-driven emacs distribution.
 * [nano](http://www.nano-editor.org/) - A text editor for Unix-like computing systems or operating environments using a command line interface.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
@@ -176,7 +177,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jq.node](https://github.com/FGRibreau/jq.node) - A command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
-* [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file. 
+* [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
 
