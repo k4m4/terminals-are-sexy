@@ -90,6 +90,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [PuTTY](http://www.putty.org/) - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 * [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. 
+* [Cmder](http://cmder.net/) - Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows. 
 * [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! 
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
