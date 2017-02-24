@@ -80,6 +80,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
 	* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 	* [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
+	* [git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 
 
 ## Terminal Emulation Applications
