@@ -2,7 +2,11 @@
 
 # Terminals Are Sexy
 
-A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+> A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+
+Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/nikolaskama).
+
+## Contents
 
 - [Terminals Are Sexy](#terminals-are-sexy)
 	- [Shells](#shells)
