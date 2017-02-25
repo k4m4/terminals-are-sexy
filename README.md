@@ -37,7 +37,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
 	* [zsh](http://www.zsh.org/) - Powerful shell with scripting language.
 	* [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
-	* [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
+	* [xonsh](https://xon.sh/) - Python-powered, cross-platform, Unix-gazing shell.
 * ZSH
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
