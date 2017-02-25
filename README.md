@@ -18,7 +18,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	- [Terminal Emulation Applications](#terminal-emulation-applications)
 	- [Package Managers](#package-managers)
 		- Universal
-		- Mac OS X
+		- macOS
 		- Linux
 		- FreeBSD
 		- Windows
@@ -125,9 +125,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [rubygems](https://rubygems.org/) - RubyGems is the Ruby community’s gem hosting service.
 	* [composer](https://getcomposer.org) - Composer is a package manager for PHP.
 	* [yarn](https://yarnpkg.com/en/) - A new package and dependency manager for javascript.
-* Mac OS X
+* macOS
 	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
-	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
+	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and macOS.
 	* [macports](http://www.macports.org/) - MacPorts is a package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
 * Linux
 	* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
