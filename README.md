@@ -65,7 +65,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [ztanesh](https://github.com/miohtama/ztanesh) - Ztanesh aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
 	* [zulu](https://github.com/zulu-zsh/zulu) - Zulu is a total environment manager for ZSH 5+.
 	* [zsh-pony](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
-	* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of ZSH plugins, completions and themes for [oh-my-zsh](http://ohmyz.sh/) and o-m-z compatible ZSH frameworks.
 * Bash
  	* [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
  	* [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
@@ -215,6 +214,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
     * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
     * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.
+    * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of ZSH plugins, completions and themes for [oh-my-zsh](http://ohmyz.sh/) and o-m-z compatible ZSH frameworks.
 * Misc
     * [public-apis](https://github.com/abhishekbanthia/Public-APIs) - A curated list of APIs from round the web.
     * [free-programming-books](https://github.com/vhf/free-programming-books) - Freely available programming books.
