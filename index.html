@@ -100,6 +100,8 @@
     
         <li class="main active"><a href="#terminals-are-sexy">Terminals Are Sexy</a></li>
         
+            <li><a href="#contents">Contents</a></li>
+        
             <li><a href="#shells">Shells</a></li>
         
             <li><a href="#terminal-emulation-applications">Terminal Emulation Applications</a></li>
@@ -127,7 +129,11 @@
             <div class="col-md-9" role="main">
 
 <h1 id="terminals-are-sexy">Terminals Are Sexy</h1>
+<blockquote>
 <p>A curated list of Terminal frameworks, plugins &amp; resources for CLI lovers.</p>
+</blockquote>
+<p>Check out my <a href="https://nikolaskama.me/">blog</a> and follow me on <a href="https://twitter.com/nikolaskama">Twitter</a>.</p>
+<h2 id="contents">Contents</h2>
 <ul>
 <li><a href="#terminals-are-sexy">Terminals Are Sexy</a><ul>
 <li><a href="#shells">Shells</a><ul>
@@ -135,6 +141,7 @@
 <li>ZSH</li>
 <li>Bash</li>
 <li>Git</li>
+<li>Fish</li>
 </ul>
 </li>
 <li><a href="#terminal-emulation-applications">Terminal Emulation Applications</a></li>
@@ -142,6 +149,7 @@
 <li>Universal</li>
 <li>Mac OS X</li>
 <li>Linux</li>
+<li>FreeBSD</li>
 <li>Windows</li>
 </ul>
 </li>
@@ -162,17 +170,16 @@
 <li><a href="https://www.gnu.org/software/bash/">bash</a> - GNU Project's shell (Bourne Again SHell).</li>
 <li><a href="http://www.zsh.org/">zsh</a> - Powerful shell with scripting language.</li>
 <li><a href="https://fishshell.com/">fish</a> - Smart and user-friendly command line shell.</li>
-<li><a href="https://xonsh.org/">xonsh</a> - Python-ish, BASHwards-looking shell language and command prompt.</li>
+<li><a href="https://xon.sh/">xonsh</a> - Python-powered, cross-platform, Unix-gazing shell.</li>
 </ul>
 </li>
 <li>ZSH<ul>
 <li><a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a> - A delightful community-driven framework for managing your zsh configuration.</li>
-<li><a href="https://github.com/fisherman/fisherman">Fisherman</a> - A concurrent plugin manager for fish.</li>
-<li><a href="https://github.com/oh-my-fish/oh-my-fish">oh-my-fish</a> - The Fishshell Framework.</li>
 <li><a href="https://github.com/sorin-ionescu/prezto">prezto</a> - The configuration framework for Zsh.</li>
 <li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">zsh-syntax-highlighting</a> - Fish shell like syntax highlighting for Zsh.</li>
 <li><a href="https://github.com/zsh-users/antigen">antigen</a> - A plugin manager for zsh, inspired by oh-my-zsh and vundle.</li>
 <li><a href="https://github.com/sindresorhus/pure">pure</a> - Pretty, minimal and fast ZSH prompt.</li>
+<li><a href="https://github.com/bhilburn/powerlevel9k">powerlevel9k</a> - Super flexible awesome powerline ZSH theme.</li>
 <li><a href="https://github.com/nojhan/liquidprompt">liquidprompt</a> - A full-featured &amp; carefully designed adaptive prompt for Bash &amp; Zsh.</li>
 <li><a href="https://github.com/dotphiles/dotzsh">dotzsh</a> - A community driven framework for zsh.</li>
 <li><a href="https://github.com/tarjoilija/zgen">zgen</a> - A lightweight and simple plugin manager for ZSH.</li>
@@ -183,7 +190,6 @@
 <li><a href="https://github.com/zsh-users/zsh-autosuggestions">zsh-autosuggestions</a> - Fish-like autosuggestions for zsh.</li>
 <li><a href="https://github.com/psyrendust/alf">alf</a> - Alf is an out of this world super fast and configurable framework for zsh.</li>
 <li><a href="https://github.com/anthraxx/ant-zsh">ant-zsh</a> - Ant-zsh is a tiny and lightweight ZSH configuration environment for special customization needs.</li>
-<li><a href="https://github.com/zsh-users/antigen">antigen</a> - Antigen is a small set of functions that help you easily manage your shell (zsh) plugins.</li>
 <li><a href="https://github.com/ryutamaki/pumice">pumice</a> - Pumice is a lightweight plugin manager for zsh.</li>
 <li><a href="https://github.com/zeekay/zeesh">zeesh</a> - Zeesh is a cross-platform Zsh framework.</li>
 <li><a href="https://github.com/zilsh/zilsh">zilsh</a> - Zilsh is a zsh config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.</li>
@@ -212,6 +218,12 @@
 <li><a href="https://github.com/magicmonty/bash-git-prompt">bash-git-prompt</a> - An informative and fancy Bash prompt for Git users.</li>
 <li><a href="https://github.com/twolfson/sexy-bash-prompt">sexy-bash-prompt</a> - Bash prompt with colors, Git statuses, and Git branches.</li>
 <li><a href="https://github.com/rtomayko/git-sh">git-sh</a> - A customized Bash environment suitable for Git work.</li>
+<li><a href="https://github.com/michaeldfallen/git-radar">git-radar</a> - A heads up display for git</li>
+</ul>
+</li>
+<li>Fish<ul>
+<li><a href="https://github.com/fisherman/fisherman">Fisherman</a> - A concurrent plugin manager for fish.</li>
+<li><a href="https://github.com/oh-my-fish/oh-my-fish">oh-my-fish</a> - The Fishshell Framework.</li>
 </ul>
 </li>
 </ul>
@@ -221,8 +233,8 @@
 <li><a href="https://github.com/gnachman/iTerm2">iTerm2</a> - iTerm2 is a terminal emulator for Mac OS X that does amazing things.</li>
 <li><a href="https://github.com/Maximus5/ConEmu">ConEmu</a> - Customizable Windows terminal with tabs, splits, quake-style and more.</li>
 <li><a href="http://www.putty.org/">PuTTY</a> - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.</li>
-<li><a href="http://kitty.9bis.net/">KiTTY</a> - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. </li>
-<li><a href="https://github.com/PowerShell/PowerShell">PowerShell</a> - PowerShell for every system! </li>
+<li><a href="http://kitty.9bis.net/">KiTTY</a> - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.</li>
+<li><a href="https://github.com/PowerShell/PowerShell">PowerShell</a> - PowerShell for every system!</li>
 <li><a href="https://gnometerminator.blogspot.com/p/introduction.html">Terminator</a> - The robot future of terminals.</li>
 <li><a href="https://konsole.kde.org/">Konsole</a> - Konsole is a terminal emulator for the K Desktop Environment.</li>
 <li><a href="http://www.macterm.net/">MacTerm</a> - Powerful replacement for macOS Terminal.</li>
@@ -231,6 +243,7 @@
 <li><a href="https://www.emtec.com/zoc/index.html">ZOC</a> - SSH/Telnet Client and Terminal Emulator for macOS and Windows.</li>
 <li><a href="https://github.com/vshatskyi/black-screen">Black Screen</a> - A terminal emulator for the 21st century.</li>
 <li><a href="http://decimus.net/DTerm">DTerm</a> - A command line anywhere and everywhere.</li>
+<li><a href="https://totalterminal.binaryage.com/">TotalTerminal</a> - A system-wide terminal available on a hot-key.</li>
 <li><a href="http://zipzapmac.com/Go2Shell">Go2Shell</a> - Opens a terminal window to the current directory in Finder.</li>
 <li><a href="http://www.secretgeometry.com/apps/cathode/">Cathode</a> - A vintage terminal for macOS.</li>
 <li><a href="https://github.com/jwilm/alacritty">Alacritty</a> - A cross-platform, GPU-accelerated terminal emulator.</li>
@@ -241,8 +254,8 @@
 <p><em>Sexy package managers for your OS X, Linux &amp; Windows CLIs.</em></p>
 <ul>
 <li>Universal<ul>
+<li><a href="http://nixos.org/nix/">nix</a> - Nix is a cross platform (Linux and MacOS) package manager that supports both from-source and pre-built binary distribution, reproducible development environments, multiple versions of the same package installed simultaneously (no more conflicts!), and much more.</li>
 <li><a href="http://www.pip-installer.org/">pip</a> - pip is a package management system used to install and manage software packages written in Python.</li>
-<li><a href="http://pypi.python.org/pypi/setuptools">easyinstall</a> - Easily download, build, install, upgrade, and uninstall Python packages.</li>
 <li><a href="http://npmjs.com/">npmjs</a> - npm is the package manager for JavaScript.</li>
 <li><a href="http://bower.io/">bower</a> - A package manager for the web.</li>
 <li><a href="https://github.com/duojs/duo">duo</a> - A next-generation package manager for the front-end.</li>
@@ -260,13 +273,16 @@
 </ul>
 </li>
 <li>Linux<ul>
-<li><a href="https://github.com/freebsd/pkg">pkg</a> - Package management tool for FreeBSD.</li>
 <li><a href="http://linuxbrew.sh/">linuxbrew</a> - The Homebrew package manager for Linux.</li>
 <li><a href="http://pkgin.net/">pkgin</a> - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.</li>
 </ul>
 </li>
+<li>FreeBSD<ul>
+<li><a href="https://github.com/freebsd/pkg">pkg</a> - Package management tool for FreeBSD.</li>
+</ul>
+</li>
 <li>Windows<ul>
-<li><a href="https://github.com/OneGet/oneget">oneget</a> - PackageManagement (aka OneGet) is a package manager for Window.</li>
+<li><a href="https://github.com/OneGet/oneget">oneget</a> - PackageManagement (aka OneGet) is a package manager for Windows.</li>
 <li><a href="https://chocolatey.org/">chocolatey</a> - The package manager for Windows.</li>
 <li><a href="https://cygwin.com/">cygwin</a> - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.</li>
 <li><a href="https://ninite.com/">ninite</a> - Install and Update All Your Programs at Once.</li>
@@ -279,11 +295,12 @@
 <p><em>Sexy text editors for your Command Line Interface.</em></p>
 <ul>
 <li><a href="http://www.vim.org/">vim</a> - Vim is an extensively configurable, cross-platform and highly efficient text editor.<ul>
-<li><a href="https://spacevim.org">SpaceVim</a> - A community-driven vim distribution</li>
+<li><a href="https://spacevim.org">SpaceVim</a> - A community-driven vim distribution.</li>
+<li><a href="https://neovim.io">neovim</a> - Literally the future of vim.</li>
 </ul>
 </li>
 <li><a href="https://www.gnu.org/software/emacs/">emacs</a> - Emacs is cross-platform and has both command-line and graphical user interface.<ul>
-<li><a href="http://spacemacs.org">spacemacs</a> - A community-driven emacs distribution</li>
+<li><a href="http://spacemacs.org">spacemacs</a> - A community-driven emacs distribution.</li>
 </ul>
 </li>
 <li><a href="http://www.nano-editor.org/">nano</a> - A text editor for Unix-like computing systems or operating environments using a command line interface.</li>
@@ -297,10 +314,11 @@
 <p><em>Sexy Applications for your Command Line Interface.</em></p>
 <ul>
 <li><a href="https://github.com/donnemartin/haxor-news">haxor-news</a> - Browse Hacker News like a haxor.</li>
-<li><a href="https://github.com/michael-lazar/rtv">redit terminal viewer</a> - Browse Reddit from your terminal.</li>
+<li><a href="https://github.com/michael-lazar/rtv">reddit terminal viewer</a> - Browse Reddit from your terminal.</li>
 <li><a href="https://taskwarrior.org/">taskwarrior</a> - A command-line TODO list manager.</li>
 <li><a href="https://transfer.sh/">transfer.sh</a> - Quickly upload and share files from your shell.</li>
 <li><a href="https://github.com/rafaelrinaldi/whereami">whereami</a> - Get your geolocation information from the CLI.</li>
+<li><a href="https://github.com/gleitz/howdoi">howdoi</a> - Instant code answers and examples from the command line</li>
 <li><a href="http://hisham.hm/htop/">htop</a> - A cool looking and interactive process viewer 'replacement' for the top command.</li>
 <li><a href="https://github.com/busyloop/lolcat">lolcat</a> - Rainbows and unicorns!</li>
 <li><a href="http://beyondgrep.com/">ack</a> - ack is a tool like grep, optimized for programmers.</li>
@@ -310,11 +328,13 @@
 <li><a href="https://github.com/tldr-pages/tldr/">tldr</a> - Simplified and community-driven man pages.</li>
 <li><a href="https://tmux.github.io/">tmux</a> - a terminal multiplexer.</li>
 <li><a href="http://ranger.nongnu.org/">ranger</a> - a console file manager with vi key bindings.</li>
-<li><a href="https://github.com/jarun/googler">googler</a> - Search Google from yor terminal.</li>
-<li><a href="https://github.com/FGRibreau/jq.node">jq.node</a> - A command-line JSON/string processor, JavaScript and Lodash in your shell</li>
+<li><a href="https://github.com/jarun/googler">googler</a> - Search Google from your terminal.</li>
+<li><a href="https://github.com/FGRibreau/jq.node">jq.node</a> - A command-line JSON/string processor, JavaScript and Lodash in your shell.</li>
 <li><a href="https://github.com/KittyKatt/screenFetch">screenfetch</a> - Fetches system/theme information in terminal for Linux desktop screenshots.</li>
 <li><a href="https://github.com/dylanaraps/neofetch">neofetch</a> - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.</li>
-<li><a href="https://github.com/maebert/jrnl">jrnl</a> - A simple command line journal application that stores your journal in a plain text file. </li>
+<li><a href="https://github.com/maebert/jrnl">jrnl</a> - A simple command line journal application that stores your journal in a plain text file.</li>
+<li><a href="https://github.com/jonas/tig">tig</a> - Text mode interface for git.</li>
+<li><a href="http://vifm.info/">vifm</a> - a console file manager with vi key bindings and some ideas from mutt.</li>
 </ul>
 <h2 id="communication">Communication</h2>
 <p><em>Sexy Tools for communicating through the Command Line Interface.</em></p>
@@ -352,6 +372,7 @@
 <li><a href="https://github.com/vhf/free-programming-books">free-programming-books</a> - Freely available programming books.</li>
 <li><a href="https://github.com/danielmiessler/SecLists">seclists</a> - SecLists is the security tester's companion.</li>
 <li><a href="https://github.com/andrewjkerr/security-cheatsheets">security-cheatsheets</a> - A collection of cheatsheets for various infosec tools and topics.</li>
+<li><a href="https://github.com/jlevy/the-art-of-command-line">the-art-of-command-line</a> - Master the command line, in one page.</li>
 </ul>
 </li>
 </ul>
