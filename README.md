@@ -20,6 +20,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 		- Universal
 		- Mac OS X
 		- Linux
+		- FreeBSD
 		- Windows
 	- [Text Editors](#text-editors)
 	- [Tools and Plugins](#tools-and-plugins)
@@ -131,9 +132,10 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
 	* [macports](http://www.macports.org/) - MacPorts is a package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
 * Linux
-	* [pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
 	* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
 	* [pkgin](http://pkgin.net/) - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
+* FreeBSD
+	* [pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
 * Windows
 	* [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows.
 	* [chocolatey](https://chocolatey.org/) - The package manager for Windows.
