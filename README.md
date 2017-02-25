@@ -14,6 +14,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 		- ZSH
 		- Bash
 		- Git
+		- Fish
 	- [Terminal Emulation Applications](#terminal-emulation-applications)
 	- [Package Managers](#package-managers)
 		- Universal
@@ -64,9 +65,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [ztanesh](https://github.com/miohtama/ztanesh) - Ztanesh aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
 	* [zulu](https://github.com/zulu-zsh/zulu) - Zulu is a total environment manager for ZSH 5+.
 	* [zsh-pony](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
-* Fish
-	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
-	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 * Bash
  	* [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
  	* [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
@@ -83,6 +81,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 	* [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 	* [git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
+* Fish
+	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
+	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 
 
 ## Terminal Emulation Applications
