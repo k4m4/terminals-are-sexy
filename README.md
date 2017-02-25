@@ -177,7 +177,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - a terminal multiplexer.
 * [ranger](http://ranger.nongnu.org/) - a console file manager with vi key bindings.
-* [googler](https://github.com/jarun/googler) - Search Google from yor terminal.
+* [googler](https://github.com/jarun/googler) - Search Google from your terminal.
 * [jq.node](https://github.com/FGRibreau/jq.node) - A command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
