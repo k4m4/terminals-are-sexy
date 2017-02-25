@@ -39,7 +39,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
 	* [zsh](http://www.zsh.org/) - Powerful shell with scripting language.
 	* [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
-	* [xonsh](https://xon.sh/) - Python-powered, cross-platform, Unix-gazing shell.
+	* [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
+	* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell is an automation and configuration tool/framework that is optimized for dealing with structured data.
 * ZSH
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 	* [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.
@@ -93,8 +94,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [PuTTY](http://www.putty.org/) - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
-* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. 
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 * [MacTerm](http://www.macterm.net/) - Powerful replacement for macOS Terminal.
