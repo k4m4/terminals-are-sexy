@@ -180,11 +180,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [googler](https://github.com/jarun/googler) - Search Google from your terminal.
 * [jq.node](https://github.com/FGRibreau/jq.node) - A command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-<<<<<<< HEAD
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
-=======
-* [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
->>>>>>> upstream/master
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
