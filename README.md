@@ -82,6 +82,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 	* [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 	* [git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
+	* [git-prompt-path](https://github.com/m-ou-se/git-prompt-path) - Git information next to every path component in your zsh and bash prompt.
 * Fish
 	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
 	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
