@@ -40,8 +40,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [xonsh](https://xon.sh/) - Python-powered, cross-platform, Unix-gazing shell.
 * ZSH
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
-	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
-	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 	* [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.
 	* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 	* [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
@@ -66,6 +64,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [ztanesh](https://github.com/miohtama/ztanesh) - Ztanesh aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
 	* [zulu](https://github.com/zulu-zsh/zulu) - Zulu is a total environment manager for ZSH 5+.
 	* [zsh-pony](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
+* Fish
+	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
+	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 * Bash
  	* [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
  	* [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
