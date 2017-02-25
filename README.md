@@ -38,10 +38,11 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [zsh](http://www.zsh.org/) - Powerful shell with scripting language.
 	* [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
 	* [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
-* ZSH
-	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
+* fish
 	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
 	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+* ZSH
+	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 	* [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.
 	* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 	* [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
