@@ -86,7 +86,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
 	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 
-
 ## Terminal Emulation Applications
 
 *Sexy 3rd party terminal emulation applications.*
@@ -110,7 +109,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 * [Termite](https://github.com/thestinger/termite/) - A keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
-
 
 ## Package Managers
 
@@ -143,7 +141,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
 	* [ruckzuck](http://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
 	* [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
-
 
 ## Text Editors
 
