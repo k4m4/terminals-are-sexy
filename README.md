@@ -117,6 +117,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [nix](http://nixos.org/nix/) - Nix is a cross platform (Linux and MacOS) package manager that supports both from-source and pre-built binary distribution, reproducible development environments, multiple versions of the same package installed simultaneously (no more conflicts!), and much more.
 	* [pip](http://www.pip-installer.org/) - pip is a package management system used to install and manage software packages written in Python.
 	* [easyinstall](http://pypi.python.org/pypi/setuptools) - Easily download, build, install, upgrade, and uninstall Python packages.
+	* [nix](http://nixos.org/nix/) - powerful package manager for Unix-like systems that makes package management reliable and reproducible.
 	* [npmjs](http://npmjs.com/) - npm is the package manager for JavaScript.
 	* [bower](http://bower.io/) - A package manager for the web.
 	* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
