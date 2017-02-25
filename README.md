@@ -109,6 +109,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 * [Termite](https://github.com/thestinger/termite/) - A keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
+* [Terminix](https://gnunn1.github.io/terminix-web/) - An advanced GTK3 tiling terminal emulator.
 
 ## Package Managers
 
