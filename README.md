@@ -219,7 +219,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
     * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
     * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.
-    * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of ZSH plugins, completions and themes for [oh-my-zsh](http://ohmyz.sh/) and o-m-z compatible ZSH frameworks.
+    * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 * Misc
     * [public-apis](https://github.com/abhishekbanthia/Public-APIs) - A curated list of APIs from round the web.
     * [free-programming-books](https://github.com/vhf/free-programming-books) - Freely available programming books.
