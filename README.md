@@ -220,6 +220,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [free-programming-books](https://github.com/vhf/free-programming-books) - Freely available programming books.
     * [seclists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion.
     * [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) - A collection of cheatsheets for various infosec tools and topics.
+    * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 
 # Contributing
 
