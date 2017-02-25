@@ -14,6 +14,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 		- ZSH
 		- Bash
 		- Git
+		- Fish
 	- [Terminal Emulation Applications](#terminal-emulation-applications)
 	- [Package Managers](#package-managers)
 		- Universal
@@ -82,6 +83,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 	* [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 	* [git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
+* Fish
+	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
 
 
 ## Terminal Emulation Applications
