@@ -115,7 +115,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy package managers for your OS X, Linux & Windows CLIs.*
 
 * Universal
-	* [nix](http://nixos.org/nix/) - Nix is a cross platform (Linux and MacOS) package manager that supports both from-source and pre-built binary distribution, reproducible development environments, multiple versions of the same package installed simultaneously (no more conflicts!), and much more.
+	* [nix](http://nixos.org/nix/) - Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 	* [pip](http://www.pip-installer.org/) - pip is a package management system used to install and manage software packages written in Python.
 	* [npmjs](http://npmjs.com/) - npm is the package manager for JavaScript.
 	* [bower](http://bower.io/) - A package manager for the web.
@@ -180,7 +180,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [googler](https://github.com/jarun/googler) - Search Google from your terminal.
 * [jq.node](https://github.com/FGRibreau/jq.node) - A command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-* [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
+* [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
