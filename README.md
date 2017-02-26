@@ -142,6 +142,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
 	* [ruckzuck](http://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
 	* [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
+	* [scoop](http://scoop.sh/) - A package manager for Windows.
 
 ## Text Editors
 
