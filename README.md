@@ -13,17 +13,17 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 		- Base Shells
 		- ZSH
 		- Bash
+        - Fish
+    - [Terminal Emulation Applications](#terminal-emulation-applications)
+    - [Package Managers](#package-managers)
+        - Universal
+        - macOS
+        - Linux
+        - FreeBSD
+        - Windows
+    - [Text Editors](#text-editors)
+    - [Tools and Plugins](#tools-and-plugins)
 		- Git
-		- Fish
-	- [Terminal Emulation Applications](#terminal-emulation-applications)
-	- [Package Managers](#package-managers)
-		- Universal
-		- macOS
-		- Linux
-		- FreeBSD
-		- Windows
-	- [Text Editors](#text-editors)
-	- [Tools and Plugins](#tools-and-plugins)
 	- [Communication](#communication)
 - [Community](#community)
 - [Other Sexy Lists](#other-sexy-lists)
@@ -75,14 +75,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
  	* [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
  	* [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
  	* [bash-it](https://github.com/Bash-it/bash-it) - Bash-it is a collection of community Bash commands and scripts.
-* Git
-	* [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
-	* [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
-	* [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
-	* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
-	* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
-	* [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
-	* [git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 * Fish
 	* [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
 	* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
@@ -94,7 +86,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [PuTTY](http://www.putty.org/) - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. 
+* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 * [MacTerm](http://www.macterm.net/) - Powerful replacement for macOS Terminal.
@@ -162,6 +154,15 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 ## Tools and Plugins
 
 *Sexy Applications for your Command Line Interface.*
+
+* Git
+    * [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
+    * [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
+    * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
+    * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
+    * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
+    * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
+    * [git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
