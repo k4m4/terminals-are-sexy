@@ -50,6 +50,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.
 	* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 	* [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
+	* [antibody](https://github.com/getantibody/antibody) - A faster and simpler antigen written in Golang.	
 	* [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
 	* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
 	* [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
