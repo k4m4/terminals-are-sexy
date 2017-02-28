@@ -116,7 +116,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Termite](https://github.com/thestinger/termite/) - A keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [Terminix](https://gnunn1.github.io/terminix-web/) - An advanced GTK3 tiling terminal emulator.
-
+* [ConsoleZ](https://github.com/cbucher/console) - ConsoleZ is a Windows console window enhancement. It is a fork of [Console](http://sourceforge.net/projects/console) project. 
 ## Package Managers
 
 *Sexy package managers for your OS X, Linux & Windows CLIs.*
