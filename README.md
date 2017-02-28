@@ -193,6 +193,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
 * [autojump](https://github.com/wting/autojump) - a cd command that learns
+* [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
 
 ## Communication
 
