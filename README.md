@@ -51,7 +51,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [prezto](https://github.com/zsh-users/prezto) - The configuration framework for Zsh.
     * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
     * [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
-    * [antibody](https://github.com/getantibody/antibody) - A faster and simpler antigen written in Golang. 
+    * [antibody](https://github.com/getantibody/antibody) - A faster and simpler antigen written in Golang.
     * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
     * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
     * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
@@ -100,7 +100,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [PuTTY](http://www.putty.org/) - PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world. 
+* [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 * [MacTerm](http://www.macterm.net/) - Powerful replacement for macOS Terminal.
@@ -196,6 +196,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [autojump](https://github.com/wting/autojump) - a cd command that learns
 * [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
+* [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 
 ## Communication
 
@@ -209,7 +210,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [slacker](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI.
 * [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - simple jira command line client in Go.
 
-
 # Community
 
 *Join the CLI lover community.*
@@ -220,7 +220,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [/r/unixporn/](https://www.reddit.com/r/unixporn/) - Everything on unix.
 * [#bash](https://webchat.freenode.net/?channels=bash) - Bash IRC channel on freenode.
 * [stackoverflow](https://stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
-
 
 # Other Sexy Lists
 
