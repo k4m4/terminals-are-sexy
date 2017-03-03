@@ -9,6 +9,7 @@
 * Check your spelling and grammar.
 * Make an individual pull request for each suggestion.
 * The pull request and commit should have a useful title.
+* Indent lines with spaces, not tabs.
 
 - You contributions are much appreciated.
 - Thanks for your suggestions!
