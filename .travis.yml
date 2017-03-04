@@ -1,1 +1,8 @@
-script: ./terminals_are_sexy.sh
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+  - ./terminals_are_sexy.sh
+  - awesome_bot README.md --allow-dupe --allow-redirect
