@@ -199,6 +199,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
+* [q](http://harelba.github.io/q/) - Command-line to run SQL-like queries directly on tabular text.
 
 ## Communication
 
