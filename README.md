@@ -89,6 +89,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
     * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
     * [git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
+    * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of useful extra commands for git
 * Fish
     * [Fisherman](https://github.com/fisherman/fisherman) - A concurrent plugin manager for fish.
     * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
@@ -116,7 +117,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Termite](https://github.com/thestinger/termite/) - A keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [Terminix](https://gnunn1.github.io/terminix-web/) - An advanced GTK3 tiling terminal emulator.
-* [ConsoleZ](https://github.com/cbucher/console) - ConsoleZ is a Windows console window enhancement. It is a fork of [Console](http://sourceforge.net/projects/console) project. 
+* [ConsoleZ](https://github.com/cbucher/console) - ConsoleZ is a Windows console window enhancement. It is a fork of [Console](http://sourceforge.net/projects/console) project.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 
 ## Package Managers
