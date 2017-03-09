@@ -69,7 +69,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [zilsh](https://github.com/zilsh/zilsh) - Zilsh is a zsh config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.
     * [zim](https://github.com/Eriner/zim) - Zim is a Zsh configuration framework with blazing speed and modular extensions.
     * [zoppo](https://github.com/zoppo/zoppo) - Zoppo is the crippled configuration framework for Zsh.
-    * [zpm](https://github.com/horosgrisa/ZPM) - ZPM is a plugin manager for zsh similar to vim-plug.
+    * [zpm](https://github.com/zpm-zsh/zpm) - ZPM is a plugin manager for zsh similar to vim-plug.
     * [ztanesh](https://github.com/miohtama/ztanesh) - Ztanesh aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
     * [zulu](https://github.com/zulu-zsh/zulu) - Zulu is a total environment manager for ZSH 5+.
     * [zsh-pony](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
@@ -103,7 +103,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [KiTTY](http://kitty.9bis.net/) - KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
-* [MacTerm](http://www.macterm.net/) - Powerful replacement for macOS Terminal.
+* [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
 * [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
@@ -116,7 +116,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Termite](https://github.com/thestinger/termite/) - A keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [Terminix](https://gnunn1.github.io/terminix-web/) - An advanced GTK3 tiling terminal emulator.
-* [ConsoleZ](https://github.com/cbucher/console) - ConsoleZ is a Windows console window enhancement. It is a fork of [Console](http://sourceforge.net/projects/console) project. 
+* [ConsoleZ](https://github.com/cbucher/console) - ConsoleZ is a Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project. 
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 
 ## Package Managers
@@ -125,9 +125,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * Universal
     * [nix](http://nixos.org/nix/) - Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
-    * [pip](http://www.pip-installer.org/) - pip is a package management system used to install and manage software packages written in Python.
-    * [npmjs](http://npmjs.com/) - npm is the package manager for JavaScript.
-    * [bower](http://bower.io/) - A package manager for the web.
+    * [pip](https://pip.pypa.io/) - pip is a package management system used to install and manage software packages written in Python.
+    * [npmjs](https://www.npmjs.com/) - npm is the package manager for JavaScript.
+    * [bower](https://bower.io/) - A package manager for the web.
     * [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end.
     * [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
     * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
@@ -135,9 +135,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [composer](https://getcomposer.org) - Composer is a package manager for PHP.
     * [yarn](https://yarnpkg.com/en/) - A new package and dependency manager for javascript.
 * macOS
-    * [homebrew](http://brew.sh/) - The missing package manager for macOS.
+    * [homebrew](https://brew.sh/) - The missing package manager for macOS.
     * [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and macOS.
-    * [macports](http://www.macports.org/) - MacPorts is a package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
+    * [macports](https://www.macports.org/) - MacPorts is a package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
 * Linux
     * [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
     * [pkgin](http://pkgin.net/) - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
@@ -148,7 +148,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [chocolatey](https://chocolatey.org/) - The package manager for Windows.
     * [cygwin](https://cygwin.com/) - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.
     * [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
-    * [ruckzuck](http://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
+    * [ruckzuck](https://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
     * [wpkg](http://windowspackager.org/documentation/wpkg) - WPKG is an automated software deployment, upgrade and removal program for Windows.
     * [scoop](http://scoop.sh/) - A package manager for Windows.
     * [babun](http://babun.github.io/) - Preconfigured cygwin with an advance package manager - pact.
@@ -162,7 +162,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [neovim](https://neovim.io) - Literally the future of vim.
 * [emacs](https://www.gnu.org/software/emacs/) - Emacs is cross-platform and has both command-line and graphical user interface.
     * [spacemacs](http://spacemacs.org) - A community-driven emacs distribution.
-* [nano](http://www.nano-editor.org/) - A text editor for Unix-like computing systems or operating environments using a command line interface.
+* [nano](https://www.nano-editor.org/) - A text editor for Unix-like computing systems or operating environments using a command line interface.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - JED is a freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](http://kakoune.org/) - A modal editor with multiple selections and orthogonal design.
@@ -181,7 +181,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [howdoi](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
 * [htop](http://hisham.hm/htop/) - A cool looking and interactive process viewer 'replacement' for the top command.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
-* [ack](http://beyondgrep.com/) - ack is a tool like grep, optimized for programmers.
+* [ack](https://beyondgrep.com/) - ack is a tool like grep, optimized for programmers.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl.
 * [bro](http://bropages.org/) - examples for command line programs.
@@ -207,7 +207,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [irssi](https://irssi.org/) - Irssi is the self proclaimed client of the future and my favorite IRC client.
 * [bitchx](http://www.bitchx.com/) - BitchX is a feature-rich and highly configurable, terminal based IRC client based on ircII.
 * [centerim](http://www.centerim.org/index.php/Main_Page) - CenterIM is a terminal based, multi-protocol Instant Messaging client with support for IRC.
-* [weechat](http://www.weechat.org/) - WeeChat is a fast, light and extensible chat client.
+* [weechat](http://weechat.org/) - WeeChat is a fast, light and extensible chat client.
 * [epic](http://www.epicsol.org/) - EPIC is a IRC client that has been under active development for 20+ years in 5 generations.
 * [slacker](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI.
 * [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - simple jira command line client in Go.
