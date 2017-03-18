@@ -118,6 +118,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ConsoleZ](https://github.com/cbucher/console) - ConsoleZ is a Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project. 
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 
+* [Byobu](http://byobu.co/) - open source text-based window manager and terminal multiplexer.
+
 ## Package Managers
 
 *Sexy package managers for your OS X, Linux & Windows CLIs.*
