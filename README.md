@@ -117,6 +117,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [ConsoleZ](https://github.com/cbucher/console) - ConsoleZ is a Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project. 
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
+* [Tilix](https://gnunn1.github.io/tilix-web/) - An advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 
 ## Package Managers
 
