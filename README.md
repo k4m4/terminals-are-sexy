@@ -195,6 +195,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
+* [void](https://github.com/spacejam/void) - a terminal mind mapper and personal organizer.
 * [autojump](https://github.com/wting/autojump) - a cd command that learns
 * [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
