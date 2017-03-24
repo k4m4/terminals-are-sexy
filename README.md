@@ -211,6 +211,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [epic](http://www.epicsol.org/) - EPIC is a IRC client that has been under active development for 20+ years in 5 generations.
 * [slacker](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI.
 * [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - simple jira command line client in Go.
+* [jaro-mail](https://www.dyne.org/software/jaro-mail) - Integrated suite of tools to manage e-mail communication in a private and efficient way.
 
 # Community
 
