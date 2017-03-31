@@ -199,6 +199,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust. 
+* [homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
 
 ## Communication
 
