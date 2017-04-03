@@ -81,6 +81,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
     * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
     * [bash-it](https://github.com/Bash-it/bash-it) - Bash-it is a collection of community Bash commands and scripts.
+    * [bash-ui](https://github.com/chadj2/bash-ui) - Embedded 256-color pop-up menus for Bash.
 * Git
     * [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
     * [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
