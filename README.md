@@ -48,7 +48,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell is an automation and configuration tool/framework that is optimized for dealing with structured data.
 * ZSH
     * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Delightful community-driven framework for managing your zsh configuration.
-    * [prezto](https://github.com/zsh-users/prezto) - The configuration framework for Zsh.
+    * [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.
     * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
     * [antigen](https://github.com/zsh-users/antigen) - Plugin manager for zsh, inspired by oh-my-zsh and vundle.
     * [antibody](https://github.com/getantibody/antibody) - Faster and simpler antigen written in Golang.
