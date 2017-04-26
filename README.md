@@ -224,6 +224,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - Collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 * Misc
     * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+    * [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 
 # Contributing
 
