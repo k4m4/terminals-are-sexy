@@ -14,19 +14,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 ## Contents
 
 - [Terminals Are Sexy](#terminals-are-sexy)
-    - [Shells](#shells)<!--
-        - Base Shells
-        - ZSH
-        - Bash
-        - Git
-        - Fish-->
+    - [Shells](#shells)
     - [Terminal Emulation Applications](#terminal-emulation-applications)
     - [Package Managers](#package-managers)<!--
-        - Universal
-        - macOS
-        - Linux
-        - FreeBSD
-        - Windows-->
     - [Text Editors](#text-editors)
     - [Tools and Plugins](#tools-and-plugins)
     - [Communication](#communication)
