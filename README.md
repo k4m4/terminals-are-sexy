@@ -33,6 +33,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
     * [zsh](http://www.zsh.org/) - Powerful shell with scripting language.
     * [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
+    * [elvish](https://elvish.io/) - A friendly and expressive Unix shell.
     * [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
     * [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.
 * ZSH
