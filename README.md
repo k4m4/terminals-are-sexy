@@ -50,7 +50,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 	* [prezto](https://github.com/zsh-users/prezto) - The configuration framework for Zsh.
 	* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-	* [slimzsh](https://github.com/changs/slimzsh) - A small, usable configuration for ZSH
+	* [slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH
 	* [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
 	* [antibody](https://github.com/getantibody/antibody) - A faster and simpler antigen written in Golang.	
 	* [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
