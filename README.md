@@ -63,7 +63,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [ztanesh](https://github.com/miohtama/ztanesh) - Aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
     * [zulu](https://github.com/zulu-zsh/zulu) - Total environment manager for ZSH 5+.
     * [zsh-pony](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
->>>>>>> acd4b50598627bd1debd68c966ee6464d32b1072
 * Bash
     * [bash-sensible](https://github.com/mrzool/bash-sensible) - Attempt at saner Bash defaults.
     * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
@@ -106,7 +105,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
 * [Termite](https://github.com/thestinger/termite/) - Keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
-* [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
+* [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project. 
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 
