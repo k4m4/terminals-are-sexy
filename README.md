@@ -40,6 +40,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [prezto](https://github.com/sorin-ionescu/prezto) - Configuration framework for Zsh.
     * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
     * [antigen](https://github.com/zsh-users/antigen) - Plugin manager for zsh, inspired by oh-my-zsh and vundle.
+    * [slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH.
     * [antibody](https://github.com/getantibody/antibody) - Faster and simpler antigen written in Golang.
     * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
     * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
@@ -189,7 +190,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 * [nycurl](https://github.com/omgimanerd/nycurl) - Checking the latest news headlines.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
-* [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust. 
+* [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries.
 
 ## Communication
