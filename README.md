@@ -191,7 +191,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [nycurl](https://github.com/omgimanerd/nycurl) - Checking the latest news headlines.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
-* [homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries.
+* [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 
 ## Communication
 
