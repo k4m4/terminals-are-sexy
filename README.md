@@ -193,6 +193,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 
 ## Communication
 
