@@ -188,7 +188,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [autojump](https://github.com/wting/autojump) - cd command that learns
 * [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
-* [nycurl](https://github.com/omgimanerd/nycurl) - Checking the latest news headlines.
+* [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Checking the latest news headlines from various news outlets on the web.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
