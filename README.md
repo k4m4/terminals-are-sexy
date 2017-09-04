@@ -98,7 +98,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [xterm](http://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
-* [Black Screen](https://github.com/vshatskyi/black-screen) - Terminal emulator for the 21st century.
+* [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
