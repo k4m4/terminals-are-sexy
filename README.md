@@ -120,7 +120,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [bower](https://bower.io/) - Package manager for the web.
     * [duo](https://github.com/duojs/duo) - Next-generation package manager for the front-end.
     * [basher](https://github.com/basherpm/basher) - Package manager for shell scripts.
-    * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+    * [bpkg](http://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
     * [rubygems](https://rubygems.org/) - The Ruby community’s gem hosting service.
     * [composer](https://getcomposer.org) - Composer is a package manager for PHP.
     * [yarn](https://yarnpkg.com/en/) - New package and dependency manager for javascript.
