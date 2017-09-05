@@ -108,7 +108,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project. 
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
-* [Mintty](https://mintty.github.io/) - A Windows terminal emulator for [Cygwin](http://cygwin.com/), [MSYS](http://mingw.org/wiki/MSYS) or [Msys2](https://github.com/msys2), and derived projects, and for [WSL](https://github.com/mintty/wsltty)
+* [Mintty](https://mintty.github.io/) - A Windows terminal emulator for [Cygwin](http://cygwin.com/), [MSYS](http://mingw.org/wiki/MSYS) or [Msys2](https://github.com/msys2), and derived projects, and for [WSL](https://github.com/mintty/wsltty).
 
 ## Package Managers
 
