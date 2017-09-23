@@ -114,6 +114,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy package managers for your macOS, Linux & Windows CLIs.*
 
 * Universal
+    * [guix](https://www.gnu.org/software/guix/) - Functional package manager for installed software packages and versions.
     * [nix](http://nixos.org/nix/) - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
     * [pip](https://pip.pypa.io/) - Package management system used to install and manage software packages written in Python.
     * [npmjs](https://www.npmjs.com/) - Package manager for JavaScript.
