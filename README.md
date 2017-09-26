@@ -35,6 +35,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
     * [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
     * [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.
+    * [Ammonite-Shell](https://github.com/lihaoyi/ammonite) - An object shell with a native Scala-like scripting language.
 * ZSH
     * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Delightful community-driven framework for managing your zsh configuration.
     * [prezto](https://github.com/sorin-ionescu/prezto) - Configuration framework for Zsh.
