@@ -110,6 +110,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 
+* [Byobu](http://byobu.co/) - open source text-based window manager and terminal multiplexer.
+
 ## Package Managers
 
 *Sexy package managers for your macOS, Linux & Windows CLIs.*
