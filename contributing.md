@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-##Please ensure your pull request adheres to the following guidelines:
+## Please ensure your pull request adheres to the following guidelines:
 
 * Make sure your submission is not a duplicate.
 * Follow the following format: `[RESOURCE](LINK) - DESCRIPTION.`
