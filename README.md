@@ -35,6 +35,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
     * [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
     * [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.
+    * [Ammonite-Shell](https://github.com/lihaoyi/ammonite) - An object shell with a Scala-like scripting language.
 * ZSH
     * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Delightful community-driven framework for managing your zsh configuration.
     * [prezto](https://github.com/sorin-ionescu/prezto) - Configuration framework for Zsh.
@@ -98,7 +99,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [xterm](http://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
-* [Black Screen](https://github.com/vshatskyi/black-screen) - Terminal emulator for the 21st century.
+* [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
@@ -114,13 +115,14 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy package managers for your macOS, Linux & Windows CLIs.*
 
 * Universal
+    * [guix](https://www.gnu.org/software/guix/) - Functional package manager for installed software packages and versions.
     * [nix](http://nixos.org/nix/) - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
     * [pip](https://pip.pypa.io/) - Package management system used to install and manage software packages written in Python.
     * [npmjs](https://www.npmjs.com/) - Package manager for JavaScript.
     * [bower](https://bower.io/) - Package manager for the web.
     * [duo](https://github.com/duojs/duo) - Next-generation package manager for the front-end.
     * [basher](https://github.com/basherpm/basher) - Package manager for shell scripts.
-    * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+    * [bpkg](http://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
     * [rubygems](https://rubygems.org/) - The Ruby community’s gem hosting service.
     * [composer](https://getcomposer.org) - Composer is a package manager for PHP.
     * [yarn](https://yarnpkg.com/en/) - New package and dependency manager for javascript.
@@ -188,10 +190,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [autojump](https://github.com/wting/autojump) - cd command that learns
 * [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
-* [nycurl](https://github.com/omgimanerd/nycurl) - Checking the latest news headlines.
+* [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Checking the latest news headlines from various news outlets on the web.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
-* [homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries.
+* [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 
 ## Communication
 
