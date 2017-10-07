@@ -234,6 +234,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/k4m4/terminals-are-sexy/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.
+Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/k4m4/terminals-are-sexy/blob/master/contributing.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.
 
 Pull requests might be kept open if I haven't decided whether additions are *sexy* enough.
