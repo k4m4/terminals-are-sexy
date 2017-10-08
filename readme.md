@@ -120,6 +120,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [pip](https://pip.pypa.io/) - Package management system used to install and manage software packages written in Python.
     * [npmjs](https://www.npmjs.com/) - Package manager for JavaScript.
     * [bower](https://bower.io/) - Package manager for the web.
+        * Deprecated for new projects: Use [yarn](https://yarnpkg.com/en/) or [webpack](https://webpack.js.org/) instead.
     * [duo](https://github.com/duojs/duo) - Next-generation package manager for the front-end.
     * [basher](https://github.com/basherpm/basher) - Package manager for shell scripts.
     * [bpkg](http://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
