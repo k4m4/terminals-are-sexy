@@ -106,9 +106,10 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
 * [Termite](https://github.com/thestinger/termite/) - Keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
-* [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project. 
+* [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
+* [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 
 ## Package Managers
 
