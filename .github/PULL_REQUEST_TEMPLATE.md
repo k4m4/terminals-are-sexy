@@ -1,5 +1,5 @@
 <!--
-  Hi there! Thank you for sumbiting a PR!
+  Hi there! Thank you for submitting a PR!
 
   Before submitting, let's make sure of a few things.
   Please ensure the following boxes are ticked if they apply.
