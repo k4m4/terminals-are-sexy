@@ -196,6 +196,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
+* [doclt](https://github.com/omgimanerd/doclt) - Provision and manage DigitalOcean resources from your terminal.
 
 ## Communication
 
