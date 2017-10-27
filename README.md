@@ -129,7 +129,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 	* [homebrew](http://brew.sh/) - The missing package manager for macOS.
 	* [fink](http://www.finkproject.org/) - The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
 	* [macports](http://www.macports.org/) - MacPorts is a package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
-	* [MAS](https://github.com/mas-cli/mas) - A simple command line interface for the Mac App Store. Designed for scripting and automation.
+	* [MAS](https://github.com/mas-cli/mas) - A simple command line interface for the Mac App Store.
 * Linux
 	* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
 	* [pkgin](http://pkgin.net/) - pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
