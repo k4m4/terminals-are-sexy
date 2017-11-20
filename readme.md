@@ -198,6 +198,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 * [buku](https://github.com/jarun/Buku) - command-line bookmark manager.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
+* [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 
 ## Communication
 
