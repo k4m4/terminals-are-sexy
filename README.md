@@ -184,7 +184,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
-* [byobu](http://byobu.co/) - A GPLv3 open source text-based window manager and terminal multiplexer.
+* [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
 
 ## Communication
 
