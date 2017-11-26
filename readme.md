@@ -187,6 +187,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jrnl](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
+* [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
 * [autojump](https://github.com/wting/autojump) - cd command that learns
 * [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
