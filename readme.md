@@ -200,6 +200,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [buku](https://github.com/jarun/Buku) - command-line bookmark manager.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
+* [termiantor-search](https://github.com/msudgh/terminator-search) - A Google search plugin for Terminator terminal emulator.
 
 ## Communication
 
