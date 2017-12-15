@@ -160,6 +160,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [kakoune](http://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * [vis](https://github.com/martanne/vis) - Highly efficient text editor.
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
+* [ne](http://ne.di.unimi.it) - Free text editor based on the POSIX standard that runs on almost any UN*X machine.
 
 ## Tools and Plugins
 
