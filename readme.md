@@ -201,6 +201,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
+* [tmux-gitbar](https://github.com/aurelien-rainone/tmux-gitbar) - Tmux plugin that shows Git status in tmux status bar.
 
 ## Communication
 
