@@ -1,6 +1,7 @@
 [![Terminals_Are_Sexy_Logo](http://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](http://terminalsare.sexy/)
 
 # Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fk4m4%2Fterminals-are-sexy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fk4m4%2Fterminals-are-sexy?ref=badge_shield)
 
 > A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
@@ -243,3 +244,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/k4m4/terminals-are-sexy/blob/master/contributing.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.
 
 Pull requests might be kept open if I haven't decided whether additions are *sexy* enough.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fk4m4%2Fterminals-are-sexy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fk4m4%2Fterminals-are-sexy?ref=badge_large)
