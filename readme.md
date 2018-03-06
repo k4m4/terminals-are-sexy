@@ -201,6 +201,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
+* [lf](https://github.com/gokcehan/lf) - A terminal file manager.
 
 ## Communication
 
