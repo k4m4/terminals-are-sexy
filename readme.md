@@ -23,7 +23,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     - [Universal](#universal)
     - [macOS](#macos)
     - [Linux](#linux)
-    - [FreeBSD](#freebsd)
     - [Windows](#windows)
 1. [Text Editors](#text-editors)
 1. [Tools and Plugins](#tools-and-plugins)
@@ -163,10 +162,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
 * [pkgin](http://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
-
-### FreeBSD
-
-* [pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
 
 ### Windows
 
