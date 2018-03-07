@@ -236,6 +236,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
+* [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 
 **[⬆ back to top](#table-of-contents)**
 
