@@ -237,6 +237,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
+* [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 
 **[⬆ back to top](#table-of-contents)**
 
