@@ -253,6 +253,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
 * [Slackadaisical](https://github.com/bkanber/Slackadaisical) - Simple Slack client for the CLI.
 * [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
+* [Zulip Terminal](https://github.com/zulip/zulip-terminal) - An interactive terminal interface for [Zulip](https://zulipchat.com).
 
 **[⬆ back to top](#table-of-contents)**
 
