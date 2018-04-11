@@ -209,7 +209,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ack](https://beyondgrep.com/) - Tool like grep, optimized for programmers.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
-* [bro](http://bropages.org/) - Examples for command line programs.
 * [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
 * [ranger](http://ranger.nongnu.org/) - Console file manager with vi key bindings.
