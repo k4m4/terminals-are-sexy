@@ -205,6 +205,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
 * [htop](http://hisham.hm/htop/) - Cool looking and interactive process viewer 'replacement' for the top command.
+* [glances](https://github.com/nicolargo/glances) - A top/htop alternative.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 * [ack](https://beyondgrep.com/) - Tool like grep, optimized for programmers.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
