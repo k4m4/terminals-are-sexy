@@ -238,6 +238,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
+* [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 
 **[⬆ back to top](#table-of-contents)**
 
