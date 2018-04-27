@@ -239,6 +239,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
+* [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 
 **[⬆ back to top](#table-of-contents)**
 
