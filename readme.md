@@ -243,6 +243,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 * [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
+* [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
 
 **[⬆ back to top](#table-of-contents)**
 
