@@ -241,6 +241,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
+* [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
 
 **[⬆ back to top](#table-of-contents)**
 
