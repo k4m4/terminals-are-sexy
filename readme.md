@@ -244,6 +244,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
 * [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
+* [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs.
 
 **[⬆ back to top](#table-of-contents)**
 
