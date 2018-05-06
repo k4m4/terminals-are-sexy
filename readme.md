@@ -245,6 +245,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
 * [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs.
+* [inxi](https://github.com/smxi/inxi) - one command to get every system info: hardware, CPU, drivers, Xorg, Desktop, Kernel, GCC version(s), Processes, RAM usage - you name it.
 
 **[⬆ back to top](#table-of-contents)**
 
