@@ -132,6 +132,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 * [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
+* [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a highly-configurable drop-down terminal emulator which smoothly rolls down from the top of your screen
 
 **[⬆ back to top](#table-of-contents)**
 
