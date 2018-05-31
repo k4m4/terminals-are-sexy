@@ -11,7 +11,7 @@
 * The pull request and commit should have a useful title.
 * Indent lines with spaces, not tabs.
 
-Once a PR is submitted, it will need to be "endorsed". This entails that your Pull Req. will be merged once more people show interest in your suggestion (i.e. react positively, comment on your pull-req etc).
+Once a PR is submitted, it will need to be "endorsed". This entails that your pull request will be merged once more people show interest in your suggestion (i.e. react positively, comment on your pull-req etc).
 
  You can vote on Pull Requests with the [endorsement-needed](https://github.com/k4m4/terminals-are-sexy/labels/endorsement-needed) tag.
 
