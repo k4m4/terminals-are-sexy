@@ -156,7 +156,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * [homebrew](https://brew.sh/) - Missing package manager for macOS.
 * [fink](http://www.finkproject.org/) - Wants to bring the full world of Unix Open Source software to Darwin and macOS.
-* [macports](https://www.macports.org/) - Package managemer that simplifies the installation of software on the macOS and Darwin operating systems.
+* [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
 
 ### Linux
 
