@@ -172,7 +172,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ruckzuck](https://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
 * [wpkg](http://windowspackager.org/documentation/wpkg) - Automated software deployment, upgrade and removal program for Windows.
 * [scoop](http://scoop.sh/) - Package manager for Windows.
-* [babun](http://babun.github.io/) - Preconfigured cygwin with an advance package manager - pact.
 
 **[⬆ back to top](#table-of-contents)**
 
