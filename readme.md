@@ -212,6 +212,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
 * [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
 * [ranger](http://ranger.nongnu.org/) - Console file manager with vi key bindings.
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface.
 * [googler](https://github.com/jarun/googler) - Search Google from your terminal.
