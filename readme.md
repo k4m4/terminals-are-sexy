@@ -151,6 +151,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [rubygems](https://rubygems.org/) - The Ruby community’s gem hosting service.
 * [composer](https://getcomposer.org) - Composer is a package manager for PHP.
 * [yarn](https://yarnpkg.com/en/) - New package and dependency manager for javascript.
+* [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 ### macOS
 
