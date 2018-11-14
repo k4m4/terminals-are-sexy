@@ -198,6 +198,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy Applications for your Command Line Interface.*
 
+* [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
 * [taskwarrior](https://taskwarrior.org/) - Command-line TODO list manager.
