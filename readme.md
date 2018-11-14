@@ -56,6 +56,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 * [antigen](https://github.com/zsh-users/antigen) - Plugin manager for zsh, inspired by oh-my-zsh and vundle.
 * [slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH.
+* [funky](https://github.com/bbugyi200/funky) - Takes ZSH shell functions to the next level by making them easier to define, more flexible, and more interactive.
 * [antibody](https://github.com/getantibody/antibody) - Faster and simpler antigen written in Golang.
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
 * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
