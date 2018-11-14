@@ -250,6 +250,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs.
 * [z](https://github.com/rupa/z) - A tool to jump to folders based on history matching a given regex
 * [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
+* [mailgun-mate](https://github.com/binarymist/mailgun-mate) - Email batch scheduling CLI that interfaces with mailgun.
 
 **[⬆ back to top](#table-of-contents)**
 
