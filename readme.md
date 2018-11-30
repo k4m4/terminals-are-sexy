@@ -131,7 +131,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
-* [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
+* [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
+* [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 
 **[⬆ back to top](#table-of-contents)**
 
