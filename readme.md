@@ -263,6 +263,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [weechat](http://weechat.org/) - Fast, light and extensible chat client.
 * [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
 * [Slackadaisical](https://github.com/bkanber/Slackadaisical) - Simple Slack client for the CLI.
+* [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal.
 * [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
 
 **[⬆ back to top](#table-of-contents)**
