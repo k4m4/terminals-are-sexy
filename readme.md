@@ -231,6 +231,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
+* [matrix-rain](https://github.com/nojvek/matrix-rain) - The famous Matrix rain effect of falling green characters.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
