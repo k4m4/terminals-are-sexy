@@ -220,6 +220,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface.
 * [googler](https://github.com/jarun/googler) - Search Google from your terminal.
 * [jq.node](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
+* [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [jrnl](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
