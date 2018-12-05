@@ -250,6 +250,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
+* [xstarter](https://github.com/lchsk/xstarter) - Interactive application launcher.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [z](https://github.com/rupa/z) - A tool to jump to folders based on history matching a given regex
 
