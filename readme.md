@@ -264,6 +264,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
 * [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
 * [irssi](https://irssi.org/) - Self proclaimed client of the future and my favorite IRC client.
+* [Profanity](http://profanity.im/) - Profanity is a console based XMPP client written in C.
 * [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal.
 * [Slackadaisical](https://github.com/bkanber/Slackadaisical) - Simple Slack client for the CLI.
 * [weechat](http://weechat.org/) - Fast, light and extensible chat client.
