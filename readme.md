@@ -119,7 +119,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [iTerm2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
-* [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
+* [KiTTY](http://kitty.9bis.net/) - Fork from version 0.70 of PuTTY, the best telnet / SSH client in the world.
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
