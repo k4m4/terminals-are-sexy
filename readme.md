@@ -153,6 +153,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [pip](https://pip.pypa.io/) - Package management system used to install and manage software packages written in Python.
 * [rubygems](https://rubygems.org/) - The Ruby community’s gem hosting service.
 * [yarn](https://yarnpkg.com/en/) - New package and dependency manager for javascript.
+* [spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 ### macOS
 
