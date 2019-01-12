@@ -17,7 +17,7 @@ matrix:
         - wget https://raw.githubusercontent.com/k4m4/terminals-are-sexy/master/readme.md
         - cat readme.md | sed -e '1,2d' > docs/index.md
         - rm -rf readme.md
-      before_deploy:
+      script:
         - mkdocs build --verbose --clean --strict
       deploy:
         provider: pages
