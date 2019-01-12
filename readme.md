@@ -1,4 +1,4 @@
-[![Terminals_Are_Sexy_Logo](http://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](http://terminalsare.sexy/)
+[![Terminals_Are_Sexy_Logo](https://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](https://terminalsare.sexy/)
 
 # Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -47,7 +47,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
 * [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.
 * [xonsh](https://xon.sh/) - Python-ish, BASHwards-looking shell language and command prompt.
-* [zsh](http://www.zsh.org/) - Powerful shell with scripting language.
+* [zsh](https://www.zsh.org/) - Powerful shell with scripting language.
 
 ### ZSH
 
@@ -112,18 +112,18 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy 3rd party terminal emulation applications.*
 
 * [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
-* [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
+* [Cathode](https://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
-* [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
+* [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [iTerm2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
-* [KiTTY](http://kitty.9bis.net/) - Fork from version 0.70 of PuTTY, the best telnet / SSH client in the world.
+* [KiTTY](https://kitty.9bis.net/) - Fork from version 0.70 of PuTTY, the best telnet / SSH client in the world.
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
-* [PuTTY](http://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+* [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 * [Termite](https://github.com/thestinger/termite/) - Keyboard-centric terminal, aimed at use within a tiling window manager.
@@ -131,7 +131,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
 * [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
-* [xterm](http://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
+* [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
 
 **[⬆ back to top](#table-of-contents)**
@@ -144,11 +144,11 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 * [basher](https://github.com/basherpm/basher) - Package manager for shell scripts.
-* [bpkg](http://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+* [bpkg](https://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
 * [composer](https://getcomposer.org) - Composer is a package manager for PHP.
 * [duo](https://github.com/duojs/duo) - Next-generation package manager for the front-end.
 * [guix](https://www.gnu.org/software/guix/) - Functional package manager for installed software packages and versions.
-* [nix](http://nixos.org/nix/) - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+* [nix](https://nixos.org/nix/) - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 * [npmjs](https://www.npmjs.com/) - Package manager for JavaScript.
 * [pip](https://pip.pypa.io/) - Package management system used to install and manage software packages written in Python.
 * [rubygems](https://rubygems.org/) - The Ruby community’s gem hosting service.
@@ -156,14 +156,14 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ### macOS
 
-* [fink](http://www.finkproject.org/) - Wants to bring the full world of Unix Open Source software to Darwin and macOS.
+* [fink](https://www.finkproject.org/) - Wants to bring the full world of Unix Open Source software to Darwin and macOS.
 * [homebrew](https://brew.sh/) - Missing package manager for macOS.
 * [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
 
 ### Linux
 
-* [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
-* [pkgin](http://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
+* [linuxbrew](https://linuxbrew.sh/) - The Homebrew package manager for Linux.
+* [pkgin](https://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
 
 ### Windows
 
@@ -172,8 +172,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
 * [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows.
 * [ruckzuck](https://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
-* [scoop](http://scoop.sh/) - Package manager for Windows.
-* [wpkg](http://windowspackager.org/documentation/wpkg) - Automated software deployment, upgrade and removal program for Windows.
+* [scoop](https://scoop.sh/) - Package manager for Windows.
+* [wpkg](https://windowspackager.org/documentation/wpkg) - Automated software deployment, upgrade and removal program for Windows.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -182,13 +182,13 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy text editors for your Command Line Interface.*
 
 * [emacs](https://www.gnu.org/software/emacs/) - Cross-platform text-editor that has both command-line and graphical user interface.
-    * [spacemacs](http://spacemacs.org) - Community-driven emacs distribution.
-* [jed](http://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
-* [kakoune](http://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
+    * [spacemacs](https://spacemacs.org) - Community-driven emacs distribution.
+* [jed](https://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
+* [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
 * [nano](https://www.nano-editor.org/) - Text editor for Unix-like computing systems or operating environments using a command line interface.
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
-* [vim](http://www.vim.org/) - Extensively configurable, cross-platform and highly efficient text editor.
+* [vim](https://www.vim.org/) - Extensively configurable, cross-platform and highly efficient text editor.
     * [SpaceVim](https://spacevim.org) - Community-driven vim distribution.
     * [neovim](https://neovim.io) - Literally the future of vim.
 * [vis](https://github.com/martanne/vis) - Highly efficient text editor.
@@ -205,7 +205,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [autojump](https://github.com/wting/autojump) - cd command that learns
 * [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
 * [buku](https://github.com/jarun/Buku) - command-line bookmark manager.
-* [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
+* [byobu](https://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
@@ -222,7 +222,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
-* [htop](http://hisham.hm/htop/) - Cool looking and interactive process viewer 'replacement' for the top command.
+* [htop](https://hisham.hm/htop/) - Cool looking and interactive process viewer 'replacement' for the top command.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 * [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
 * [jq.node](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
@@ -246,7 +246,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
-* [vifm](http://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
+* [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
@@ -259,14 +259,14 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy Tools for communicating through the Command Line Interface.*
 
-* [bitchx](http://www.bitchx.com/) - Feature-rich and highly configurable, terminal based IRC client based on ircII.
-* [centerim](http://www.centerim.org/index.php/Main_Page) - Terminal based, multi-protocol Instant Messaging client with support for IRC.
-* [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
+* [bitchx](https://www.bitchx.com/) - Feature-rich and highly configurable, terminal based IRC client based on ircII.
+* [centerim](https://www.centerim.org/index.php/Main_Page) - Terminal based, multi-protocol Instant Messaging client with support for IRC.
+* [epic](https://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
 * [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
 * [irssi](https://irssi.org/) - Self proclaimed client of the future and my favorite IRC client.
 * [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal.
 * [Slackadaisical](https://github.com/bkanber/Slackadaisical) - Simple Slack client for the CLI.
-* [weechat](http://weechat.org/) - Fast, light and extensible chat client.
+* [weechat](https://weechat.org/) - Fast, light and extensible chat client.
 
 **[⬆ back to top](#table-of-contents)**
 
