@@ -112,14 +112,14 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy 3rd party terminal emulation applications.*
 
 * [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
-* [Cathode](https://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
+* [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
 * [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [iTerm2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
-* [KiTTY](https://kitty.9bis.net/) - Fork from version 0.70 of PuTTY, the best telnet / SSH client in the world.
+* [KiTTY](http://kitty.9bis.net/) - Fork from version 0.70 of PuTTY, the best telnet / SSH client in the world.
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
@@ -156,14 +156,14 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ### macOS
 
-* [fink](https://www.finkproject.org/) - Wants to bring the full world of Unix Open Source software to Darwin and macOS.
+* [fink](http://www.finkproject.org/) - Wants to bring the full world of Unix Open Source software to Darwin and macOS.
 * [homebrew](https://brew.sh/) - Missing package manager for macOS.
 * [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
 
 ### Linux
 
 * [linuxbrew](https://linuxbrew.sh/) - The Homebrew package manager for Linux.
-* [pkgin](https://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
+* [pkgin](http://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
 
 ### Windows
 
@@ -182,7 +182,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy text editors for your Command Line Interface.*
 
 * [emacs](https://www.gnu.org/software/emacs/) - Cross-platform text-editor that has both command-line and graphical user interface.
-    * [spacemacs](https://spacemacs.org) - Community-driven emacs distribution.
+    * [spacemacs](http://spacemacs.org) - Community-driven emacs distribution.
 * [jed](https://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
@@ -205,7 +205,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [autojump](https://github.com/wting/autojump) - cd command that learns
 * [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
 * [buku](https://github.com/jarun/Buku) - command-line bookmark manager.
-* [byobu](https://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
+* [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
@@ -259,9 +259,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy Tools for communicating through the Command Line Interface.*
 
-* [bitchx](https://www.bitchx.com/) - Feature-rich and highly configurable, terminal based IRC client based on ircII.
+* [bitchx](http://www.bitchx.com/) - Feature-rich and highly configurable, terminal based IRC client based on ircII.
 * [centerim](https://www.centerim.org/index.php/Main_Page) - Terminal based, multi-protocol Instant Messaging client with support for IRC.
-* [epic](https://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
+* [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
 * [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
 * [irssi](https://irssi.org/) - Self proclaimed client of the future and my favorite IRC client.
 * [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal.
