@@ -63,6 +63,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [pumice](https://github.com/ryutamaki/pumice) - Lightweight plugin manager for zsh.
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
 * [slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH.
+* [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - Spaceship is a minimalistic, powerful and extremely customizable Zsh prompt.
 * [zeesh](https://github.com/zeekay/zeesh) - Cross-platform Zsh framework.
 * [zgen](https://github.com/tarjoilija/zgen) - Lightweight and simple plugin manager for ZSH.
 * [zilsh](https://github.com/zilsh/zilsh) - Zsh config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.
