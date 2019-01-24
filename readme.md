@@ -242,6 +242,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [taskwarrior](https://taskwarrior.org/) - Command-line TODO list manager.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
+* [tiv](https://github.com/stefanhaustein/TerminalImageViewer) - Text mode terminal image viewer. 
 * [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
