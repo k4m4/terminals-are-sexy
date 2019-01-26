@@ -199,7 +199,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy Applications for your Command Line Interface.*
 
-* [ack](https://beyondgrep.com/) - Tool like grep, optimized for programmers.
+* [ack2](https://github.com/beyondgrep/ack2) - Greplike tool, optimized for programmers.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [autojump](https://github.com/wting/autojump) - cd command that learns
