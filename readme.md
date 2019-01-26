@@ -102,7 +102,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ### Fish
 
-* [Fisherman](https://github.com/fisherman/fisherman) - Concurrent plugin manager for fish.
+* [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 
 **[⬆ back to top](#table-of-contents)**
