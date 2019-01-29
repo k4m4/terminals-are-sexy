@@ -3,7 +3,7 @@ site_url: http://terminalsare.sexy
 site_description: A curated list of sexy Terminal frameworks, extensions & resources for CLI lovers.
 site_author: Nikolaos Kamarinakis
 repo_url: https://github.com/k4m4/terminals-are-sexy
-edit_uri: blob/master/readme.md
+edit_uri: ''
 theme: cinder
 google_analytics: ['UA-91770911-1', 'terminalsare.sexy']
 nav:
