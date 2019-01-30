@@ -247,6 +247,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
+* [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
 * [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
