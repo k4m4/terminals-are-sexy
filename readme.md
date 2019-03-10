@@ -164,6 +164,10 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [linuxbrew](https://linuxbrew.sh/) - The Homebrew package manager for Linux.
 * [pkgin](http://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
 
+### ChromeOS
+
+* [chromebrew](https://github.com/skycocker/chromebrew) - Package manager for Chrome OS.
+
 ### Windows
 
 * [chocolatey](https://chocolatey.org/) - Package manager for Windows.
