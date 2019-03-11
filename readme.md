@@ -236,6 +236,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
+* [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
@@ -245,7 +246,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [taskwarrior](https://taskwarrior.org/) - Command-line TODO list manager.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
-* [tiv](https://github.com/stefanhaustein/TerminalImageViewer) - Text mode terminal image viewer. 
+* [tiv](https://github.com/stefanhaustein/TerminalImageViewer) - Text mode terminal image viewer.
 * [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
