@@ -257,6 +257,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [z](https://github.com/rupa/z) - A tool to jump to folders based on history matching a given regex
 * [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
+* [td-cli](https://github.com/darrikonn/td-cli) - A todo command-line manager to organize and manage your todos across multiple projects.
 
 **[⬆ back to top](#table-of-contents)**
 
