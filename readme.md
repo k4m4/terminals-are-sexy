@@ -79,6 +79,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [zulu](https://github.com/zulu-zsh/zulu) - Total environment manager for ZSH 5+.
 * [zunit](https://github.com/molovo/zunit) - Powerful unit testing framework for ZSH.
 
+You can check the [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) repository for even more.
+
 ### Bash
 
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
@@ -104,6 +106,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+
+You can check the [awesome-fish](https://github.com/jorgebucaran/awesome-fish) repository for more  info.
 
 **[⬆ back to top](#table-of-contents)**
 
