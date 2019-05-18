@@ -129,6 +129,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 * [Terminus](https://github.com/Eugeny/terminus) - A cross-platform terminal for a more modern age, based on web technologies.
 * [Termite](https://github.com/thestinger/termite/) - Keyboard-centric terminal, aimed at use within a tiling window manager.
+* [Termius](https://www.termius.com/) - Termius is the SSH client that works on Desktop and Mobile.
 * [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
