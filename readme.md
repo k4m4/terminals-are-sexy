@@ -135,6 +135,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
+* [Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
 
 **[⬆ back to top](#table-of-contents)**
 
