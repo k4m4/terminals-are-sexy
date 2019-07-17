@@ -267,6 +267,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy Tools for communicating through the Command Line Interface.*
 
+* [ASCII Roulette](https://dialup.com/ascii) - Chat roulette in your command line.
 * [bitchx](http://www.bitchx.com/) - Feature-rich and highly configurable, terminal based IRC client based on ircII.
 * [centerim](https://www.centerim.org/index.php/Main_Page) - Terminal based, multi-protocol Instant Messaging client with support for IRC.
 * [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
