@@ -239,6 +239,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [nnn](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
+* [pywal](https://github.com/dylanaraps/pywal) - generate and change colorschemes on the fly. Successor of wal.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
@@ -254,7 +255,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
 * [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
-* [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
