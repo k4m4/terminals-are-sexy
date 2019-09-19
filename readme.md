@@ -188,6 +188,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * [emacs](https://www.gnu.org/software/emacs/) - Cross-platform text-editor that has both command-line and graphical user interface.
     * [spacemacs](http://spacemacs.org) - Community-driven emacs distribution.
+    * [Doom](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer 
 * [jed](https://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
