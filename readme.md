@@ -147,6 +147,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 * [basher](https://github.com/basherpm/basher) - Package manager for shell scripts.
 * [bpkg](https://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+* [Cargo](https://doc.rust-lang.org/cargo/) - Cargo is the Rust package manager. Cargo downloads your Rust package’s dependencies, compiles your packages, makes distributable packages, and uploads them to crates.io.
 * [composer](https://getcomposer.org) - Composer is a package manager for PHP.
 * [guix](https://www.gnu.org/software/guix/) - Functional package manager for installed software packages and versions.
 * [nix](https://nixos.org/nix/) - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
