@@ -102,7 +102,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ### Fish
 
-* [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
+* [Fisher](https://github.com/jorgebucaran/fisher) - Package manager for the fish shell.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 
 **[⬆ back to top](#table-of-contents)**
@@ -116,7 +116,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
-* [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) - A terminal emulator for GNOME.
+* [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) - Terminal emulator for GNOME.
+* [GNU Screen](https://www.gnu.org/software/screen/) - Full-screen window manager that multiplexes a physical terminal between several processes.
 * [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [iTerm2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
@@ -127,10 +128,10 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
-* [Terminus](https://github.com/Eugeny/terminus) - A cross-platform terminal for a more modern age, based on web technologies.
+* [Terminus](https://github.com/Eugeny/terminus) - Cross-platform terminal for a more modern age, based on web technologies.
 * [Termite](https://github.com/thestinger/termite/) - Keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Termius](https://www.termius.com/) - Termius is the SSH client that works on Desktop and Mobile.
-* [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
+* [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux and Unix.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
 * [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
@@ -161,6 +162,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [fink](http://www.finkproject.org/) - Wants to bring the full world of Unix Open Source software to Darwin and macOS.
 * [homebrew](https://brew.sh/) - Missing package manager for macOS.
 * [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
+* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 
 ### Linux
 
@@ -216,14 +218,14 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
-* [dry](https://github.com/moncho/dry) - A Docker manager for the terminal.
+* [dry](https://github.com/moncho/dry) - Docker manager for the terminal.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 * [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 * [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface.
 * [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Checking the latest news headlines from various news outlets on the web.
-* [glances](https://github.com/nicolargo/glances) - A top/htop alternative.
+* [glances](https://github.com/nicolargo/glances) - top/htop alternative.
 * [googler](https://github.com/jarun/googler) - Search Google from your terminal.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
@@ -233,6 +235,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
 * [jq.node](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [jrnl](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
+* [k](https://github.com/supercrabtree/k) - Directory listings for zsh with git features.
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
@@ -246,6 +249,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Code-searching tool like ack and the_silver_searcher, but faster.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
+* [taskell](https://taskell.app/) - Command-line Trello-like kanban-board/TODO lists.
 * [taskwarrior](https://taskwarrior.org/) - Command-line TODO list manager.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
@@ -259,8 +263,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
-* [z](https://github.com/rupa/z) - A tool to jump to folders based on history matching a given regex
-* [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
+* [z](https://github.com/rupa/z) - Tool to jump to folders based on history matching a given regex
+* [z.lua](https://github.com/skywind3000/z.lua) - New cd command that helps you navigate faster by learning your habits.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -300,7 +304,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 #### Awesome
 
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) - Curated list of delightful Bash scripts and resources.
-* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - Community driven list of useful Emacs packages, libraries and others.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - Collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 
