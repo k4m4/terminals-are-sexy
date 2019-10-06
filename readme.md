@@ -234,6 +234,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
 * [jq.node](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [jrnl](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
+* [k](https://github.com/supercrabtree/k) - Directory listings for zsh with git features.
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
