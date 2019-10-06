@@ -160,6 +160,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [fink](http://www.finkproject.org/) - Wants to bring the full world of Unix Open Source software to Darwin and macOS.
 * [homebrew](https://brew.sh/) - Missing package manager for macOS.
 * [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
+* [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 
 ### Linux
 
