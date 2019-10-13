@@ -221,6 +221,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [df-show](https://github.com/roberthawdon/dfshow) - Interactive directory and file browser with a similar feel to the `ls` command.
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
 * [dry](https://github.com/moncho/dry) - Docker manager for the terminal.
+* [emplace](https://github.com/tversteeg/emplace) - Synchronize installed packages using git.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 * [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
@@ -252,6 +253,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Code-searching tool like ack and the_silver_searcher, but faster.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
+* [starship](https://github.com/starship/starship) - Customizable prompt for any shell.
 * [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
 * [taskell](https://taskell.app/) - Command-line Trello-like kanban-board/TODO lists.
 * [taskwarrior](https://taskwarrior.org/) - Command-line TODO list manager.
@@ -261,6 +263,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
+* [topgrade](https://github.com/r-darwish/topgrade) - Upgrade all installed packages.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
 * [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
