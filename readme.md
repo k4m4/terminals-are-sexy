@@ -98,6 +98,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [gittify](https://github.com/momeni/gittify) - Colorful Bash prompt + customized Git aliases.
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - Opinionated git prompt for bash and zsh.
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
+* [scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status.
 
 ### Fish
 
