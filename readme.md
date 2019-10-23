@@ -219,6 +219,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [df-show](https://github.com/roberthawdon/dfshow) - Interactive directory and file browser with a similar feel to the `ls` command.
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
 * [dry](https://github.com/moncho/dry) - Docker manager for the terminal.
+* [emplace](https://github.com/tversteeg/emplace) - Synchronize installed packages using git.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 * [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
