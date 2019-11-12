@@ -199,7 +199,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [SpaceVim](https://spacevim.org) - Community-driven vim distribution.
     * [neovim](https://neovim.io) - Literally the future of vim.
 * [vis](https://github.com/martanne/vis) - Highly efficient text editor.
-* [ConsoleCodeEditor](https://github.com/WilliamRagstad/ConsoleCodeEditor) - A lightweight and feature packed code editor! (vim/nano alternative)
+* [ConsoleCodeEditor](https://github.com/WilliamRagstad/ConsoleCodeEditor) - A lightweight and feature packed code editor. (vim/nano alternative)
 
 **[⬆ back to top](#table-of-contents)**
 
