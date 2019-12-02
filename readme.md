@@ -241,6 +241,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [nnn](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
