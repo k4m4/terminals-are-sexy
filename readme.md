@@ -111,7 +111,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy 3rd party terminal emulation applications.*
 
 * [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
-* [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
