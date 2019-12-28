@@ -232,6 +232,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [htop](https://hisham.hm/htop/) - Cool looking and interactive process viewer 'replacement' for the top command.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 * [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
+* [jaymock-cli](https://github.com/unmock/jaymock-cli) - Mock an API and generate fake JSON test data, right from the terminal.
 * [jq.node](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [jrnl](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
 * [k](https://github.com/supercrabtree/k) - Directory listings for zsh with git features.
