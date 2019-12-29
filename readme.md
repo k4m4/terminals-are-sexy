@@ -188,6 +188,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy text editors for your Command Line Interface.*
 
+* [ConsoleCodeEditor](https://github.com/WilliamRagstad/ConsoleCodeEditor) - Lightweight, elegant and cross-platform text editor in your terminal.
 * [emacs](https://www.gnu.org/software/emacs/) - Cross-platform text-editor that has both command-line and graphical user interface.
     * [spacemacs](http://spacemacs.org) - Community-driven emacs distribution.
 * [jed](https://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
@@ -199,7 +200,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [SpaceVim](https://spacevim.org) - Community-driven vim distribution.
     * [neovim](https://neovim.io) - Literally the future of vim.
 * [vis](https://github.com/martanne/vis) - Highly efficient text editor.
-* [ConsoleCodeEditor](https://github.com/WilliamRagstad/ConsoleCodeEditor) - A lightweight and feature packed code editor. (vim/nano alternative)
 
 **[⬆ back to top](#table-of-contents)**
 
