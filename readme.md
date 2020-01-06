@@ -87,6 +87,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [bashtrap](https://github.com/barryclark/bashstrap) - Quick way to spruce up OSX terminal.
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
+* [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - Delightful community-driven framework for managing your bash configuration.
 
 ### Git
 
