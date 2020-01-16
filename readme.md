@@ -68,6 +68,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [zim](https://github.com/Eriner/zim) - Zsh configuration framework with blazing speed and modular extensions.
 * [zoppo](https://github.com/zoppo/zoppo) - Crippled configuration framework for Zsh.
 * [zplug](https://github.com/zplug/zplug) - Next-generation plugin manager for zsh.
+* [zplugin](https://github.com/zdharma/zplugin) - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services.
 * [zpm](https://github.com/zpm-zsh/zpm) - Plugin manager for zsh similar to vim-plug.
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
 * [zsh-pony](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
