@@ -16,6 +16,7 @@ matrix:
         - pip install mkdocs mkdocs-cinder
         - wget https://raw.githubusercontent.com/k4m4/terminals-are-sexy/master/readme.md
         - cat readme.md | sed -e '1,2d' > docs/index.md
+        - sed -i '10i<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7DEK3E&placement=terminalsaresexy" id="_carbonads_js"></script>' docs/index.md
         - rm -rf readme.md
       script:
         - mkdocs build --verbose --clean --strict
