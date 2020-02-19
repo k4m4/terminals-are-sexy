@@ -5,6 +5,8 @@ site_author: Nikolaos Kamarinakis
 repo_url: https://github.com/k4m4/terminals-are-sexy
 edit_uri: ''
 theme: cinder
+extra_css:
+    - 'index.css'
 google_analytics: ['UA-91770911-1', 'terminalsare.sexy']
 nav:
 - 'Terminals Are Sexy': 'index.md'
