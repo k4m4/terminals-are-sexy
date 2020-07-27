@@ -215,6 +215,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
+* [conrad](https://github.com/vinayak-mehta/conrad) - Track conferences and meetups on your terminal!
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
 * [df-show](https://github.com/roberthawdon/dfshow) - Interactive directory and file browser with a similar feel to the `ls` command.
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
