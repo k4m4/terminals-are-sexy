@@ -127,7 +127,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-* [Terminator](https://github.com/gnome-terminator/terminator) - The robot future of terminals.
+* [Terminator](https://github.com/gnome-terminator/terminator) - Multiple GNOME terminals in one window.
 * [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 * [Terminus](https://github.com/Eugeny/terminus) - Cross-platform terminal for a more modern age, based on web technologies.
 * [Termite](https://github.com/thestinger/termite/) - Keyboard-centric terminal, aimed at use within a tiling window manager.
