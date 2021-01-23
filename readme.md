@@ -250,6 +250,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Code-searching tool like ack and the_silver_searcher, but faster.
+* [rq](https://github.com/dflemstr/rq) - Command-line JSON/YAML/TOML/ProtoBuf/MessagePack/CBOR processing tool.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
 * [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
