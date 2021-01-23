@@ -211,6 +211,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [autojump](https://github.com/wting/autojump) - cd command that learns
 * [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
+* [bitwise](http://github.com/mellowcandle/bitwise) - Terminal based bit manipulator in ncurses.
 * [buku](https://github.com/jarun/Buku) - command-line bookmark manager.
 * [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
