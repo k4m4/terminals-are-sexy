@@ -18,6 +18,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     - [Bash](#bash)
     - [Git](#git)
     - [Fish](#fish)
+    - [Xonsh](#xonsh)    
 1. [Terminal Emulation Applications](#terminal-emulation-applications)
 1. [Package Managers](#package-managers)
     - [Universal](#universal)
@@ -105,6 +106,10 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * [Fisher](https://github.com/jorgebucaran/fisher) - Package manager for the fish shell.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+
+### Xonsh
+
+* [Ergopack](https://github.com/anki-code/xontrib-ergopack) - Meta package that installs group of ergonomic xontribs in xonsh shell.
 
 **[⬆ back to top](#table-of-contents)**
 
