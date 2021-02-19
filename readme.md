@@ -217,6 +217,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
 * [df-show](https://github.com/roberthawdon/dfshow) - Interactive directory and file browser with a similar feel to the `ls` command.
+* [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and a web interface.
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
 * [dry](https://github.com/moncho/dry) - Docker manager for the terminal.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
