@@ -236,6 +236,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jaymock-cli](https://github.com/unmock/jaymock-cli) - Mock an API and generate fake JSON test data, right from the terminal.
 * [jq.node](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [jrnl](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
+* [just](https://github.com/casey/just) - Feature-packed task runner, similar to make but less weird.
 * [k](https://github.com/supercrabtree/k) - Directory listings for zsh with git features.
 * [kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
