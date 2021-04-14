@@ -247,6 +247,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [nnn](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
+* [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Code-searching tool like ack and the_silver_searcher, but faster.
