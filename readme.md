@@ -263,6 +263,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
 * [tre](https://github.com/dduan/tre) - Improved `tree` command that knows git, creates shell alias for quick opening, and more!
+* [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
