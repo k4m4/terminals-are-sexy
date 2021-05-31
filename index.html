@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A curated list of sexy Terminal frameworks, extensions & resources for CLI lovers.">
+    <meta name="author" content="Nikolaos Kamarinakis">
+    <link rel="canonical" href="http://terminalsare.sexy/">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    
+    <title>Terminals Are Sexy - Terminals Are Sexy</title>
+    
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/v4-shims.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.min.css">
+    <link href='//rsms.me/inter/inter.css' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap-custom.min.css" rel="stylesheet">
+    <link href="css/base.min.css" rel="stylesheet">
+    <link href="css/cinder.min.css" rel="stylesheet">
+
+    
+        
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/styles/github.min.css">
+        
+    
+    <link href="index.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+        <![endif]-->
+
+    
+    <script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-91770911-1', 'terminalsare.sexy');
+    ga('send', 'pageview');
+    </script>
+    
+
+     
+</head>
+
+<body class="homepage" >
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+
+            
+              <a class="navbar-brand" href=".">Terminals Are Sexy</a>
+            
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+
+            <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <i class="fas fa-search"></i> Search
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/k4m4/terminals-are-sexy"><i class="fab fa-github"></i> GitHub</a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <div class="container">
+        
+        
+        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="first-level active"><a href="#terminals-are-sexy">Terminals Are Sexy</a></li>
+            <li class="second-level"><a href="#table-of-contents">Table of Contents</a></li>
+                
+            <li class="second-level"><a href="#shells">Shells</a></li>
+                
+                <li class="third-level"><a href="#base-shells">Base Shells</a></li>
+                <li class="third-level"><a href="#zsh">ZSH</a></li>
+                <li class="third-level"><a href="#bash">Bash</a></li>
+                <li class="third-level"><a href="#git">Git</a></li>
+                <li class="third-level"><a href="#fish">Fish</a></li>
+            <li class="second-level"><a href="#terminal-emulation-applications">Terminal Emulation Applications</a></li>
+                
+            <li class="second-level"><a href="#package-managers">Package Managers</a></li>
+                
+                <li class="third-level"><a href="#universal">Universal</a></li>
+                <li class="third-level"><a href="#macos">macOS</a></li>
+                <li class="third-level"><a href="#linux">Linux</a></li>
+                <li class="third-level"><a href="#chromeos">ChromeOS</a></li>
+                <li class="third-level"><a href="#windows">Windows</a></li>
+            <li class="second-level"><a href="#text-editors">Text Editors</a></li>
+                
+            <li class="second-level"><a href="#tools-and-plugins">Tools and Plugins</a></li>
+                
+            <li class="second-level"><a href="#communication">Communication</a></li>
+                
+            <li class="second-level"><a href="#other">Other</a></li>
+                
+                <li class="third-level"><a href="#community">Community</a></li>
+                <li class="third-level"><a href="#other-sexy-lists">Other Sexy Lists</a></li>
+            <li class="second-level"><a href="#contributing">Contributing</a></li>
+                
+    </ul>
+</div></div>
+        <div class="col-md-9" role="main">
+
+<h1 id="terminals-are-sexy">Terminals Are Sexy <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></h1>
+<blockquote>
+<p>A curated list of Terminal frameworks, plugins &amp; resources for CLI lovers.</p>
+</blockquote>
+<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7DEK3E&placement=terminalsaresexy" id="_carbonads_js"></script>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+<ol>
+<li><a href="#shells">Shells</a><ul>
+<li><a href="#base-shells">Base Shells</a></li>
+<li><a href="#zsh">ZSH</a></li>
+<li><a href="#bash">Bash</a></li>
+<li><a href="#git">Git</a></li>
+<li><a href="#fish">Fish</a></li>
+</ul>
+</li>
+<li><a href="#terminal-emulation-applications">Terminal Emulation Applications</a></li>
+<li><a href="#package-managers">Package Managers</a><ul>
+<li><a href="#universal">Universal</a></li>
+<li><a href="#macos">macOS</a></li>
+<li><a href="#linux">Linux</a></li>
+<li><a href="#windows">Windows</a></li>
+</ul>
+</li>
+<li><a href="#text-editors">Text Editors</a></li>
+<li><a href="#tools-and-plugins">Tools and Plugins</a></li>
+<li><a href="#communication">Communication</a></li>
+<li><a href="#other">Other</a><ul>
+<li><a href="#community">Community</a></li>
+<li><a href="#other-sexy-lists">Other Sexy Lists</a><ul>
+<li><a href="#awesome">Awesome</a></li>
+<li><a href="#misc">Misc</a></li>
+</ul>
+</li>
+<li><a href="#contributing">Contributing</a></li>
+</ul>
+</li>
+</ol>
+<hr />
+<h2 id="shells">Shells</h2>
+<p><em>Sexy frameworks, plugins and resources for your sexy shell.</em></p>
+<h3 id="base-shells">Base Shells</h3>
+<ul>
+<li><a href="https://github.com/lihaoyi/ammonite">Ammonite-Shell</a> - An object shell with a Scala-like scripting language.</li>
+<li><a href="https://www.gnu.org/software/bash/">bash</a> - GNU Project's shell (Bourne Again SHell).</li>
+<li><a href="https://fishshell.com/">fish</a> - Smart and user-friendly command line shell.</li>
+<li><a href="https://github.com/PowerShell/PowerShell">PowerShell</a> - Automation and configuration tool/framework that is optimized for dealing with structured data.</li>
+<li><a href="https://xon.sh/">xonsh</a> - Python-ish, BASHwards-looking shell language and command prompt.</li>
+<li><a href="https://www.zsh.org/">zsh</a> - Powerful shell with scripting language.</li>
+</ul>
+<h3 id="zsh">ZSH</h3>
+<ul>
+<li><a href="https://github.com/psyrendust/alf">alf</a> - Out of this world super fast and configurable framework for zsh.</li>
+<li><a href="https://github.com/anthraxx/ant-zsh">ant-zsh</a> - Tiny and lightweight ZSH configuration environment for special customization needs.</li>
+<li><a href="https://github.com/getantibody/antibody">antibody</a> - Faster and simpler antigen written in Golang.</li>
+<li><a href="https://github.com/zsh-users/antigen">antigen</a> - Plugin manager for zsh, inspired by oh-my-zsh and vundle.</li>
+<li><a href="https://github.com/dotphiles/dotzsh">dotzsh</a> - Community driven framework for zsh.</li>
+<li><a href="https://github.com/nojhan/liquidprompt">liquidprompt</a> - Full-featured &amp; carefully designed adaptive prompt for Bash &amp; Zsh.</li>
+<li><a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a> - Delightful community-driven framework for managing your zsh configuration.</li>
+<li><a href="https://github.com/bhilburn/powerlevel9k">powerlevel9k</a> - Super flexible awesome powerline ZSH theme.</li>
+<li><a href="https://github.com/sorin-ionescu/prezto">prezto</a> - Configuration framework for Zsh.</li>
+<li><a href="https://github.com/ryutamaki/pumice">pumice</a> - Lightweight plugin manager for zsh.</li>
+<li><a href="https://github.com/sindresorhus/pure">pure</a> - Pretty, minimal and fast ZSH prompt.</li>
+<li><a href="https://github.com/changs/slimzsh">slimzsh</a> - Small, usable configuration for ZSH.</li>
+<li><a href="https://github.com/zeekay/zeesh">zeesh</a> - Cross-platform Zsh framework.</li>
+<li><a href="https://github.com/tarjoilija/zgen">zgen</a> - Lightweight and simple plugin manager for ZSH.</li>
+<li><a href="https://github.com/zilsh/zilsh">zilsh</a> - Zsh config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.</li>
+<li><a href="https://github.com/Eriner/zim">zim</a> - Zsh configuration framework with blazing speed and modular extensions.</li>
+<li><a href="https://github.com/zdharma/zinit">zinit</a> - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services.</li>
+<li><a href="https://github.com/zoppo/zoppo">zoppo</a> - Crippled configuration framework for Zsh.</li>
+<li><a href="https://github.com/zplug/zplug">zplug</a> - Next-generation plugin manager for zsh.</li>
+<li><a href="https://github.com/zpm-zsh/zpm">zpm</a> - Plugin manager for zsh similar to vim-plug.</li>
+<li><a href="https://github.com/zsh-users/zsh-autosuggestions">zsh-autosuggestions</a> - Fish-like autosuggestions for zsh.</li>
+<li><a href="https://github.com/mika/zsh-pony">zsh-pony</a> - Covers customizing ZSH without a framework.</li>
+<li><a href="https://github.com/unixorn/zsh-quickstart-kit">zsh-quickstart-kit</a> - Simple zsh quickstart for using zsh and zgen.</li>
+<li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">zsh-syntax-highlighting</a> - Fish shell like syntax highlighting for Zsh.</li>
+<li><a href="https://github.com/rocky/zshdb">zshdb</a> - ZSH debugger.</li>
+<li><a href="https://github.com/miohtama/ztanesh">ztanesh</a> - Aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.</li>
+<li><a href="https://github.com/zulu-zsh/zulu">zulu</a> - Total environment manager for ZSH 5+.</li>
+<li><a href="https://github.com/molovo/zunit">zunit</a> - Powerful unit testing framework for ZSH.</li>
+</ul>
+<h3 id="bash">Bash</h3>
+<ul>
+<li><a href="https://github.com/sebglazebrook/aliases">aliases</a> - Contextual, dynamic, organized aliases for the bash shell.</li>
+<li><a href="https://github.com/Bash-it/bash-it">bash-it</a> - Collection of community Bash commands and scripts.</li>
+<li><a href="https://github.com/riobard/bash-powerline">bash-powerline</a> - Powerline-style Bash prompt in pure Bash script.</li>
+<li><a href="https://github.com/mrzool/bash-sensible">bash-sensible</a> - Attempt at saner Bash defaults.</li>
+<li><a href="https://github.com/barryclark/bashstrap">bashtrap</a> - Quick way to spruce up OSX terminal.</li>
+<li><a href="https://github.com/dvorka/hstr">hstr</a> - Bash History Suggest Box.</li>
+<li><a href="https://github.com/nojhan/liquidprompt">liquidprompt</a> - Full-featured &amp; carefully designed adaptive prompt for Bash &amp; Zsh.</li>
+</ul>
+<h3 id="git">Git</h3>
+<ul>
+<li><a href="https://github.com/magicmonty/bash-git-prompt">bash-git-prompt</a> - Informative and fancy Bash prompt for Git users.</li>
+<li><a href="https://github.com/unixorn/git-extra-commands">git-extra-commands</a> - Collection of useful extra commands for git</li>
+<li><a href="https://github.com/lvv/git-prompt">git-prompt</a> - Bash prompt with Git, SVN and HG modules.</li>
+<li><a href="https://github.com/michaeldfallen/git-radar">git-radar</a> - Heads up display for git</li>
+<li><a href="https://github.com/rtomayko/git-sh">git-sh</a> - Customized Bash environment suitable for Git work.</li>
+<li><a href="https://github.com/momeni/gittify">gittify</a> - Colorful Bash prompt + customized Git aliases.</li>
+<li><a href="https://github.com/arialdomartini/oh-my-git">oh-my-git</a> - Opinionated git prompt for bash and zsh.</li>
+<li><a href="https://github.com/twolfson/sexy-bash-prompt">sexy-bash-prompt</a> - Bash prompt with colors, Git statuses, and Git branches.</li>
+</ul>
+<h3 id="fish">Fish</h3>
+<ul>
+<li><a href="https://github.com/jorgebucaran/fisher">Fisher</a> - Package manager for the fish shell.</li>
+<li><a href="https://github.com/oh-my-fish/oh-my-fish">oh-my-fish</a> - The Fishshell Framework.</li>
+</ul>
+<p><strong><a href="#table-of-contents">⬆ back to top</a></strong></p>
+<h2 id="terminal-emulation-applications">Terminal Emulation Applications</h2>
+<p><em>Sexy 3rd party terminal emulation applications.</em></p>
+<ul>
+<li><a href="https://github.com/jwilm/alacritty">Alacritty</a> - Cross-platform, GPU-accelerated terminal emulator.</li>
+<li><a href="https://github.com/cmderdev/cmder">Cmder</a> - Lovely console emulator package for Windows.</li>
+<li><a href="https://github.com/Maximus5/ConEmu">ConEmu</a> - Customizable Windows terminal with tabs, splits, quake-style and more.</li>
+<li><a href="https://github.com/cbucher/console">ConsoleZ</a> - Windows console window enhancement. It is a fork of <a href="https://sourceforge.net/projects/console">Console</a> project.</li>
+<li><a href="https://github.com/felixse/FluentTerminal">FluentTerminal</a> - A Terminal Emulator based on UWP and web technologies.</li>
+<li><a href="https://wiki.gnome.org/Apps/Terminal">GNOME Terminal</a> - Terminal emulator for GNOME.</li>
+<li><a href="https://www.gnu.org/software/screen/">GNU Screen</a> - Full-screen window manager that multiplexes a physical terminal between several processes.</li>
+<li><a href="https://zipzapmac.com/Go2Shell">Go2Shell</a> - Opens a terminal window to the current directory in Finder.</li>
+<li><a href="https://github.com/zeit/hyper">Hyper</a> - Terminal built on web technologies.</li>
+<li><a href="https://github.com/gnachman/iTerm2">iTerm2</a> - Terminal emulator for macOS that does amazing things.</li>
+<li><a href="http://kitty.9bis.net/">KiTTY</a> - Fork from version 0.70 of PuTTY, the best telnet / SSH client in the world.</li>
+<li><a href="https://konsole.kde.org/">Konsole</a> - Terminal emulator for the K Desktop Environment.</li>
+<li><a href="https://www.macterm.net/">MacTerm</a> - Powerful replacement for macOS Terminal.</li>
+<li><a href="https://github.com/mobile-shell/mosh">Mosh</a> - Remote terminal application that allows roaming and supports intermittent connectivity.</li>
+<li><a href="https://www.putty.org/">PuTTY</a> - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.</li>
+<li><a href="https://github.com/gnome-terminator/terminator">Terminator</a> - Multiple GNOME terminals in one window.</li>
+<li><a href="https://github.com/billiob/terminology">Terminology</a> - The best terminal emulator based on the Enlightenment Foundation Libraries.</li>
+<li><a href="https://github.com/Eugeny/terminus">Terminus</a> - Cross-platform terminal for a more modern age, based on web technologies.</li>
+<li><a href="https://github.com/thestinger/termite/">Termite</a> - Keyboard-centric terminal, aimed at use within a tiling window manager.</li>
+<li><a href="https://github.com/lanoxx/tilda">Tilda</a> - Gtk based drop down terminal for Linux and Unix.</li>
+<li><a href="https://gnunn1.github.io/tilix-web/">Tilix</a> - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.</li>
+<li><a href="https://docs.xfce.org/apps/terminal/start">Xfce Terminal</a> - Modern terminal emulator primarily for the Xfce desktop environment.</li>
+<li><a href="https://invisible-island.net/xterm/">xterm</a> - Terminal emulator for the X Window System.</li>
+<li><a href="https://www.emtec.com/zoc/index.html">ZOC</a> - SSH/Telnet Client and Terminal Emulator for macOS and Windows.</li>
+</ul>
+<p><strong><a href="#table-of-contents">⬆ back to top</a></strong></p>
+<h2 id="package-managers">Package Managers</h2>
+<p><em>Sexy package managers for your macOS, Linux &amp; Windows CLIs.</em></p>
+<h3 id="universal">Universal</h3>
+<ul>
+<li><a href="https://github.com/asdf-vm/asdf">asdf</a> - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</li>
+<li><a href="https://github.com/basherpm/basher">basher</a> - Package manager for shell scripts.</li>
+<li><a href="https://www.bpkg.sh/">bpkg</a> - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.</li>
+<li><a href="https://getcomposer.org">composer</a> - Composer is a package manager for PHP.</li>
+<li><a href="https://www.gnu.org/software/guix/">guix</a> - Functional package manager for installed software packages and versions.</li>
+<li><a href="https://nixos.org/nix/">nix</a> - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.</li>
+<li><a href="https://www.npmjs.com/">npmjs</a> - Package manager for JavaScript.</li>
+<li><a href="https://pip.pypa.io/">pip</a> - Package management system used to install and manage software packages written in Python.</li>
+<li><a href="https://rubygems.org/">rubygems</a> - The Ruby community’s gem hosting service.</li>
+<li><a href="https://yarnpkg.com/en/">yarn</a> - New package and dependency manager for javascript.</li>
+</ul>
+<h3 id="macos">macOS</h3>
+<ul>
+<li><a href="http://www.finkproject.org/">fink</a> - Wants to bring the full world of Unix Open Source software to Darwin and macOS.</li>
+<li><a href="https://brew.sh/">homebrew</a> - Missing package manager for macOS.</li>
+<li><a href="https://www.macports.org/">macports</a> - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.</li>
+<li><a href="https://github.com/mas-cli/mas">mas</a> - Mac App Store command line interface.</li>
+</ul>
+<h3 id="linux">Linux</h3>
+<ul>
+<li><a href="https://linuxbrew.sh/">linuxbrew</a> - The Homebrew package manager for Linux.</li>
+<li><a href="http://pkgin.net/">pkgin</a> - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.</li>
+</ul>
+<h3 id="chromeos">ChromeOS</h3>
+<ul>
+<li><a href="https://github.com/skycocker/chromebrew">chromebrew</a> - Package manager for Chrome OS.</li>
+</ul>
+<h3 id="windows">Windows</h3>
+<ul>
+<li><a href="https://chocolatey.org/">chocolatey</a> - Package manager for Windows.</li>
+<li><a href="https://cygwin.com/">cygwin</a> - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.</li>
+<li><a href="https://ninite.com/">ninite</a> - Install and Update All Your Programs at Once.</li>
+<li><a href="https://github.com/OneGet/oneget">oneget</a> - PackageManagement (aka OneGet) is a package manager for Windows.</li>
+<li><a href="https://ruckzuck.tools/">ruckzuck</a> - Software Package Manager for Windows, a quick way to install and update Software.</li>
+<li><a href="https://scoop.sh/">scoop</a> - Package manager for Windows.</li>
+<li><a href="https://windowspackager.org/documentation/wpkg">wpkg</a> - Automated software deployment, upgrade and removal program for Windows.</li>
+</ul>
+<p><strong><a href="#table-of-contents">⬆ back to top</a></strong></p>
+<h2 id="text-editors">Text Editors</h2>
+<p><em>Sexy text editors for your Command Line Interface.</em></p>
+<ul>
+<li><a href="https://www.gnu.org/software/emacs/">emacs</a> - Cross-platform text-editor that has both command-line and graphical user interface.<ul>
+<li><a href="http://spacemacs.org">spacemacs</a> - Community-driven emacs distribution.</li>
+</ul>
+</li>
+<li><a href="https://www.jedsoft.org/jed/">jed</a> - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.</li>
+<li><a href="https://kakoune.org/">kakoune</a> - Modal editor with multiple selections and orthogonal design.</li>
+<li><a href="https://github.com/zyedidia/micro">micro</a> - Modern and intuitive terminal-based text editor.</li>
+<li><a href="https://www.nano-editor.org/">nano</a> - Text editor for Unix-like computing systems or operating environments using a command line interface.</li>
+<li><a href="https://github.com/slap-editor/slap">slap</a> - Sublime-like terminal-based text editor.</li>
+<li><a href="https://www.vim.org/">vim</a> - Extensively configurable, cross-platform and highly efficient text editor.<ul>
+<li><a href="https://spacevim.org">SpaceVim</a> - Community-driven vim distribution.</li>
+<li><a href="https://neovim.io">neovim</a> - Literally the future of vim.</li>
+</ul>
+</li>
+<li><a href="https://github.com/martanne/vis">vis</a> - Highly efficient text editor.</li>
+</ul>
+<p><strong><a href="#table-of-contents">⬆ back to top</a></strong></p>
+<h2 id="tools-and-plugins">Tools and Plugins</h2>
+<p><em>Sexy Applications for your Command Line Interface.</em></p>
+<ul>
+<li><a href="https://github.com/beyondgrep/ack3">ack3</a> - Greplike tool, optimized for programmers.</li>
+<li><a href="https://github.com/TejasQ/add-gitignore">add-gitignore</a> - An interactive CLI that generates a .gitignore for your project based on your needs.</li>
+<li><a href="https://github.com/asciinema/asciinema">asciinema</a> - Terminal session recorder.</li>
+<li><a href="https://github.com/wting/autojump">autojump</a> - cd command that learns</li>
+<li><a href="https://github.com/jarun/bcal">bcal</a> - Storage conversion and expression calculator.</li>
+<li><a href="https://github.com/jarun/Buku">buku</a> - command-line bookmark manager.</li>
+<li><a href="http://byobu.co/">byobu</a> - Byobu is an open source text-based window manager and terminal multiplexer.</li>
+<li><a href="https://github.com/miguelmota/cointop">cointop</a> - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.</li>
+<li><a href="https://github.com/athityakumar/colorls">colorls</a> - Beautify the terminal's <code>ls</code> command, with color and font-awesome icons.</li>
+<li><a href="https://github.com/jarun/ddgr">ddgr</a> - DuckDuckGo from the terminal.</li>
+<li><a href="https://github.com/roberthawdon/dfshow">df-show</a> - Interactive directory and file browser with a similar feel to the <code>ls</code> command.</li>
+<li><a href="https://github.com/lirantal/dockly">dockly</a> - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.</li>
+<li><a href="https://github.com/moncho/dry">dry</a> - Docker manager for the terminal.</li>
+<li><a href="https://github.com/ogham/exa">exa</a> - Replacement for 'ls' written in Rust.</li>
+<li><a href="https://github.com/jhspetersson/fselect">fselect</a> - 'find' replacement with SQL-like syntax.</li>
+<li><a href="https://github.com/antonmedv/fx">fx</a> - Command-line JSON viewer.</li>
+<li><a href="https://github.com/junegunn/fzf">fzf</a> - Command-line fuzzy finder.</li>
+<li><a href="https://github.com/insanum/gcalcli">gcalcli</a> - Google Calendar command line interface.</li>
+<li><a href="https://github.com/omgimanerd/getnews.tech">getnews.tech</a> - Checking the latest news headlines from various news outlets on the web.</li>
+<li><a href="https://github.com/nicolargo/glances">glances</a> - top/htop alternative.</li>
+<li><a href="https://github.com/jarun/googler">googler</a> - Search Google from your terminal.</li>
+<li><a href="https://github.com/donnemartin/haxor-news">haxor-news</a> - Browse Hacker News like a haxor.</li>
+<li><a href="https://github.com/caskroom/homebrew-cask">homebrew-cask</a> - CLI workflow for the administration of macOS applications distributed as binaries.</li>
+<li><a href="https://github.com/gleitz/howdoi">howdoi</a> - Instant code answers and examples from the command line</li>
+<li><a href="https://hisham.hm/htop/">htop</a> - Cool looking and interactive process viewer 'replacement' for the top command.</li>
+<li><a href="https://hub.github.com/">hub</a> - Command-line wrapper for git that makes working with GitHub easy.</li>
+<li><a href="https://github.com/jarun/imgp">imgp</a> - Multi-core batch image resizer and rotator.</li>
+<li><a href="https://github.com/unmock/jaymock-cli">jaymock-cli</a> - Mock an API and generate fake JSON test data, right from the terminal.</li>
+<li><a href="https://github.com/FGRibreau/jq.node">jq.node</a> - Command-line JSON/string processor, JavaScript and Lodash in your shell.</li>
+<li><a href="https://github.com/maebert/jrnl">jrnl</a> - Simple command line journal application that stores your journal in a plain text file.</li>
+<li><a href="https://github.com/supercrabtree/k">k</a> - Directory listings for zsh with git features.</li>
+<li><a href="https://github.com/astefanutti/kubebox">kubebox</a> - Terminal console for Kubernetes.</li>
+<li><a href="https://github.com/k4m4/lexis">lexis</a> - word counting made easy. Retrieve the number of words in a string or stdin.</li>
+<li><a href="https://github.com/gokcehan/lf">lf</a> - Terminal file manager.</li>
+<li><a href="https://github.com/busyloop/lolcat">lolcat</a> - Rainbows and unicorns!</li>
+<li><a href="https://github.com/eddiezane/lunchy">lunchy</a> - Friendly wrapper for launchctl.</li>
+<li><a href="https://github.com/mps-youtube/mps-youtube">mps-youtube</a> - Terminal based YouTube player and downloader</li>
+<li><a href="https://github.com/denisidoro/navi">navi</a> - An interactive cheatsheet tool for the command-line.</li>
+<li><a href="https://github.com/dylanaraps/neofetch">neofetch</a> - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.</li>
+<li><a href="https://github.com/jarun/nnn">nnn</a> - Tiny, lightning fast, feature-packed file manager.</li>
+<li><a href="https://ranger.github.io/">ranger</a> - Console file manager with vi key bindings.</li>
+<li><a href="https://github.com/shobrook/rebound">rebound</a> - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.</li>
+<li><a href="https://github.com/michael-lazar/rtv">reddit terminal viewer</a> - Browse Reddit from your terminal.</li>
+<li><a href="https://github.com/BurntSushi/ripgrep">ripgrep</a> - Code-searching tool like ack and the_silver_searcher, but faster.</li>
+<li><a href="https://github.com/KittyKatt/screenFetch">screenfetch</a> - Fetches system/theme information in terminal for Linux desktop screenshots.</li>
+<li><a href="https://github.com/msoap/shell2http">shell2http</a> - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.</li>
+<li><a href="https://github.com/streamlink/streamlink">streamlink</a> - CLI for extracting streams from various websites to a video player of your choosing.</li>
+<li><a href="https://taskell.app/">taskell</a> - Command-line Trello-like kanban-board/TODO lists.</li>
+<li><a href="https://taskwarrior.org/">taskwarrior</a> - Command-line TODO list manager.</li>
+<li><a href="https://github.com/ggreer/the_silver_searcher">the_silver_searcher</a> - Code-searching tool similar to ack, but faster.</li>
+<li><a href="https://github.com/jonas/tig">tig</a> - Text mode interface for git.</li>
+<li><a href="https://github.com/stefanhaustein/TerminalImageViewer">tiv</a> - Text mode terminal image viewer.</li>
+<li><a href="https://github.com/tldr-pages/tldr/">tldr</a> - Simplified and community-driven man pages.</li>
+<li><a href="https://tmux.github.io/">tmux</a> - Terminal multiplexer.</li>
+<li><a href="https://github.com/tmuxinator/tmuxinator">tmuxinator</a> - Manage complex tmux sessions easily.</li>
+<li><a href="https://transfer.sh/">transfer.sh</a> - Quickly upload and share files from your shell.</li>
+<li><a href="https://github.com/dduan/tre">tre</a> - Improved <code>tree</code> command that knows git, creates shell alias for quick opening, and more!</li>
+<li><a href="https://vifm.info/">vifm</a> - Console file manager with vi key bindings and some ideas from mutt.</li>
+<li><a href="https://github.com/dylanaraps/wal">wal</a> - generate and change colorschemes on the fly.</li>
+<li><a href="https://github.com/rafaelrinaldi/whereami">whereami</a> - Get your geolocation information from the CLI.</li>
+<li><a href="https://github.com/chubin/wttr.in">wttr.in</a> - The right way to check the weather.</li>
+<li><a href="https://yadm.io">yadm</a> - Seamless git-based management of your dotfiles.</li>
+<li><a href="https://rg3.github.io/youtube-dl/">youtube-dl</a> - download videos from YouTube</li>
+<li><a href="https://github.com/rupa/z">z</a> - Tool to jump to folders based on history matching a given regex</li>
+<li><a href="https://github.com/skywind3000/z.lua">z.lua</a> - New cd command that helps you navigate faster by learning your habits.</li>
+<li><a href="https://github.com/ajeetdsouza/zoxide">zoxide</a> - cd anywhere without typing in long paths.</li>
+</ul>
+<p><strong><a href="#table-of-contents">⬆ back to top</a></strong></p>
+<h2 id="communication">Communication</h2>
+<p><em>Sexy Tools for communicating through the Command Line Interface.</em></p>
+<ul>
+<li><a href="http://www.bitchx.com/">bitchx</a> - Feature-rich and highly configurable, terminal based IRC client based on ircII.</li>
+<li><a href="https://www.centerim.org/index.php/Main_Page">centerim</a> - Terminal based, multi-protocol Instant Messaging client with support for IRC.</li>
+<li><a href="http://www.epicsol.org/">epic</a> - IRC client that has been under active development for 20+ years in 5 generations.</li>
+<li><a href="https://github.com/Netflix-Skunkworks/go-jira">go-jira</a> - Simple jira command line client in Go.</li>
+<li><a href="https://irssi.org/">irssi</a> - Self proclaimed client of the future and my favorite IRC client.</li>
+<li><a href="https://github.com/erroneousboat/slack-term">slack-term</a> - Slack client for your terminal.</li>
+<li><a href="https://github.com/bkanber/Slackadaisical">Slackadaisical</a> - Simple Slack client for the CLI.</li>
+<li><a href="https://weechat.org/">weechat</a> - Fast, light and extensible chat client.</li>
+</ul>
+<p><strong><a href="#table-of-contents">⬆ back to top</a></strong></p>
+<h2 id="other">Other</h2>
+<h3 id="community">Community</h3>
+<p><em>Join the CLI lover community.</em></p>
+<ul>
+<li><a href="https://www.reddit.com/r/commandline">/r/commandline</a> - This is for anything regarding the command line, in any operating system.</li>
+<li><a href="https://www.reddit.com/r/osxterminal">/r/osxterminal</a> - Tips for using terminal.app in macOS.</li>
+<li><a href="https://www.reddit.com/r/zsh/">/r/zsh/</a> - Everything on zsh.</li>
+<li><a href="https://www.reddit.com/r/unixporn/">/r/unixporn/</a> - Everything on unix.</li>
+<li><a href="https://webchat.freenode.net/?channels=bash">#bash</a> - Bash IRC channel on freenode.</li>
+<li><a href="https://stackoverflow.com/questions/tagged/terminal">Stack Overflow</a> - Terminal tagged questions.</li>
+</ul>
+<h3 id="other-sexy-lists">Other Sexy Lists</h3>
+<p><em>Here are some more sexy lists.</em></p>
+<h4 id="awesome">Awesome</h4>
+<ul>
+<li><a href="https://github.com/jondot/awesome-devenv">awesome-devenv</a> - Curated list of delightful Bash scripts and resources.</li>
+<li><a href="https://github.com/emacs-tw/awesome-emacs">awesome-emacs</a> - Community driven list of useful Emacs packages, libraries and others.</li>
+<li><a href="https://github.com/kahun/awesome-sysadmin">awesome-sysadmin</a> - Curated list of amazingly awesome open source sysadmin resources.</li>
+<li><a href="https://github.com/unixorn/awesome-zsh-plugins">awesome-zsh-plugins</a> - Collection of ZSH frameworks, plugins &amp; themes inspired by the various awesome list collections out there.</li>
+</ul>
+<h4 id="misc">Misc</h4>
+<ul>
+<li><a href="https://github.com/Idnan/bash-guide">bash-guide</a> - Guide to learn bash.</li>
+<li><a href="https://github.com/jlevy/the-art-of-command-line">the-art-of-command-line</a> - Master the command line, in one page.</li>
+</ul>
+<p><strong><a href="#table-of-contents">⬆ back to top</a></strong></p>
+<h2 id="contributing">Contributing</h2>
+<p>Your contributions are always welcome! Please take a look at our <a href="https://github.com/k4m4/terminals-are-sexy/blob/master/contributing.md">contribution guidelines</a> and <a href="https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md">code of conduct</a> first.</p>
+<p>Pull requests might be kept open if it hasn't been decided whether additions are <em>sexy</em> enough.</p></div>
+        
+        
+    </div>
+
+    
+      <footer class="col-md-12 text-center">
+          
+          
+            <hr>
+            <p>
+            <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</small>
+            </p>
+          
+
+          
+          
+      </footer>
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap-3.0.3.min.js"></script>
+
+    
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/highlight.min.js"></script>
+        
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    <script>var base_url = "."</script>
+    
+    <script src="js/base.js"></script>
+    <script src="search/main.js"></script>
+
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                    <span class="sr-only">Close</span>
+                </button>
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+    </body>
+
+</html>
+
+<!--
+MkDocs version : 1.1.2
+Build Date UTC : 2021-05-31 21:32:47.158568+00:00
+-->
