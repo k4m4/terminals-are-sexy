@@ -51,6 +51,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ### ZSH
 
+* [μz](https://github.com/maxrodrigo/uz) - Zsh micro plugin manager.
 * [alf](https://github.com/psyrendust/alf) - Out of this world super fast and configurable framework for zsh.
 * [ant-zsh](https://github.com/anthraxx/ant-zsh) - Tiny and lightweight ZSH configuration environment for special customization needs.
 * [antibody](https://github.com/getantibody/antibody) - Faster and simpler antigen written in Golang.
