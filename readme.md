@@ -65,6 +65,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH.
 * [zeesh](https://github.com/zeekay/zeesh) - Cross-platform Zsh framework.
 * [zgen](https://github.com/tarjoilija/zgen) - Lightweight and simple plugin manager for ZSH.
+* [zgenom](https://github.com/jandamm/zgenom) - Lightweight and simple plugin manager for ZSH. Modernized fork of zgen.
 * [zilsh](https://github.com/zilsh/zilsh) - Zsh config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.
 * [zim](https://github.com/Eriner/zim) - Zsh configuration framework with blazing speed and modular extensions.
 * [zinit](https://github.com/zdharma/zinit) - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services.
