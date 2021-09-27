@@ -241,6 +241,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+* [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal.
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
