@@ -213,6 +213,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
 * [buku](https://github.com/jarun/Buku) - command-line bookmark manager.
 * [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
+* [clifm](https://github.com/leo-arch/clifm) - The command line file manager
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
