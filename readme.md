@@ -86,6 +86,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [bash-it](https://github.com/Bash-it/bash-it) - Collection of community Bash commands and scripts.
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
 * [bash-sensible](https://github.com/mrzool/bash-sensible) - Attempt at saner Bash defaults.
+* [bashdb](http://bashdb.sourceforge.net/) - Bash debugger.
 * [bashtrap](https://github.com/barryclark/bashstrap) - Quick way to spruce up OSX terminal.
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
