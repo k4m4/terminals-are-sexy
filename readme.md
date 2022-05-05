@@ -255,6 +255,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
 * [taskell](https://taskell.app/) - Command-line Trello-like kanban-board/TODO lists.
 * [taskwarrior](https://taskwarrior.org/) - Command-line TODO list manager.
+* [td-cli](https://github.com/darrikonn/td-cli) - A todo command-line manager to organize and manage your todos across multiple projects.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [tiv](https://github.com/stefanhaustein/TerminalImageViewer) - Text mode terminal image viewer.
