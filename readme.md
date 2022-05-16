@@ -47,6 +47,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
 * [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.
 * [xonsh](https://xon.sh/) - Python-ish, BASHwards-looking shell language and command prompt.
+* [nacre](https://nacre.sh) - Intuitive JavaScript Shell for those who prefer to deal with JSON over text.
 * [zsh](https://www.zsh.org/) - Powerful shell with scripting language.
 
 ### ZSH
