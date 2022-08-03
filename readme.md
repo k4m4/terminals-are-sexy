@@ -58,7 +58,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [dotzsh](https://github.com/dotphiles/dotzsh) - Community driven framework for zsh.
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Delightful community-driven framework for managing your zsh configuration.
-* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme.
 * [prezto](https://github.com/sorin-ionescu/prezto) - Configuration framework for Zsh.
 * [pumice](https://github.com/ryutamaki/pumice) - Lightweight plugin manager for zsh.
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
