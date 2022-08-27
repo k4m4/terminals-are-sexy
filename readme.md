@@ -271,6 +271,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [z](https://github.com/rupa/z) - Tool to jump to folders based on history matching a given regex
 * [z.lua](https://github.com/skywind3000/z.lua) - New cd command that helps you navigate faster by learning your habits.
+* [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - cd anywhere without typing in long paths.
 
 **[⬆ back to top](#table-of-contents)**
