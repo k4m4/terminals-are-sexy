@@ -131,12 +131,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 * [Terminus](https://github.com/Eugeny/terminus) - Cross-platform terminal for a more modern age, based on web technologies.
 * [Termite](https://github.com/thestinger/termite/) - Keyboard-centric terminal, aimed at use within a tiling window manager.
+* [Tess](https://tessapp.dev) - Fast, Lightweight, Famous. Terminal for the new era.
 * [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux and Unix.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
-* [Tess](https://tessapp.dev) - Fast, Lightweight, Famous. Terminal for the new era.
 
 **[⬆ back to top](#table-of-contents)**
 
