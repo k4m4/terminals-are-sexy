@@ -265,6 +265,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tre](https://github.com/dduan/tre) - Improved `tree` command that knows git, creates shell alias for quick opening, and more!
 * [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
+* [wander](https://github.com/robinovitch61/wander) - A HashiCorp Nomad terminal client.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 * [yadm](https://yadm.io) - Seamless git-based management of your dotfiles.
