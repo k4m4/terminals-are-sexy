@@ -153,6 +153,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [nix](https://nixos.org/nix/) - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 * [npmjs](https://www.npmjs.com/) - Package manager for JavaScript.
 * [pip](https://pip.pypa.io/) - Package management system used to install and manage software packages written in Python.
+* [pub](https://pub.dev/) - Package manager for Dart.
 * [rubygems](https://rubygems.org/) - The Ruby community’s gem hosting service.
 * [yarn](https://yarnpkg.com/en/) - New package and dependency manager for javascript.
 
