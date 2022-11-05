@@ -246,6 +246,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [nnn](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
+* [papis](https://github.com/papis/papis) - A highly extensible bibliography manager.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
