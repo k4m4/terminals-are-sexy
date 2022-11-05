@@ -208,6 +208,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * [ack3](https://github.com/beyondgrep/ack3) - Greplike tool, optimized for programmers.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs.
+* [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [autojump](https://github.com/wting/autojump) - cd command that learns
 * [bcal](https://github.com/jarun/bcal) - Storage conversion and expression calculator.
