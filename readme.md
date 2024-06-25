@@ -272,6 +272,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [z](https://github.com/rupa/z) - Tool to jump to folders based on history matching a given regex
 * [z.lua](https://github.com/skywind3000/z.lua) - New cd command that helps you navigate faster by learning your habits.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - cd anywhere without typing in long paths.
+* [x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd is a vast and interesting collection of tools guided by the Unix philosophy.
 
 **[⬆ back to top](#table-of-contents)**
 
