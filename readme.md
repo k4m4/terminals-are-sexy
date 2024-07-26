@@ -165,7 +165,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ### Linux
 
-* [linuxbrew](https://linuxbrew.sh/) - The Homebrew package manager for Linux.
+* [linuxbrew](https://docs.brew.sh/Homebrew-on-Linux) - The Homebrew package manager for Linux.
 * [pkgin](http://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
 
 ### ChromeOS
