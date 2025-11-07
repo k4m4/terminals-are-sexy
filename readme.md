@@ -180,6 +180,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows.
 * [ruckzuck](https://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
 * [scoop](https://scoop.sh/) - Package manager for Windows.
+* [winget](https://github.com/microsoft/winget-cli) - Official Windows Package Manager
 * [wpkg](https://windowspackager.org/documentation/wpkg) - Automated software deployment, upgrade and removal program for Windows.
 
 **[⬆ back to top](#table-of-contents)**
