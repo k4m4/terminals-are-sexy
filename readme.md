@@ -136,6 +136,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
+- [sbsh](https://github.com/eminwux/sbsh) - Terminal-as-Code: reproducible, persistent, and shareable terminal environments.
 
 **[⬆ back to top](#table-of-contents)**
 
