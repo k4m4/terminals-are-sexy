@@ -245,6 +245,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
+* [n01d-term](https://github.com/bad-antics/n01d-term) - Cyberpunk terminal toolkit with AI integration, smart aliases, hacking themes and productivity features.
 * [nnn](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
