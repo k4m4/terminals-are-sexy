@@ -246,6 +246,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [nnn](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
+* [psmux](https://github.com/marlocarlo/psmux) - tmux for Windows. Native terminal multiplexer with session management and tmux-compatible commands.
+* [psnet](https://github.com/marlocarlo/psnet) - Terminal-based network monitor for Windows with live speed graphs and DNS resolution.
+* [pstop](https://github.com/marlocarlo/pstop) - htop for Windows. Terminal-based system monitor with per-core CPU bars and process tree.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
 * [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
