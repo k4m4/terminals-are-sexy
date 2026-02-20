@@ -94,6 +94,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Collection of useful extra commands for git
+* [git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git, using native objects and refs.
 * [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
 * [git-radar](https://github.com/michaeldfallen/git-radar) - Heads up display for git
 * [git-sh](https://github.com/rtomayko/git-sh) - Customized Bash environment suitable for Git work.
