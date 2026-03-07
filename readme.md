@@ -275,6 +275,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 **[⬆ back to top](#table-of-contents)**
 
+* [wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile & desktop PWA command center for AI coding agents (Claude, Codex, Gemini) via tmux — access sessions from phone or browser, secured by Tailscale.
+
 ## Communication
 
 *Sexy Tools for communicating through the Command Line Interface.*
