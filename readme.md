@@ -227,6 +227,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Checking the latest news headlines from various news outlets on the web.
 * [glances](https://github.com/nicolargo/glances) - top/htop alternative.
 * [googler](https://github.com/jarun/googler) - Search Google from your terminal.
+* [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default command sandbox with filesystem and network isolation for AI agents and CLI tools.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
