@@ -56,6 +56,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [antibody](https://github.com/getantibody/antibody) - Faster and simpler antigen written in Golang.
 * [antigen](https://github.com/zsh-users/antigen) - Plugin manager for zsh, inspired by oh-my-zsh and vundle.
 * [dotzsh](https://github.com/dotphiles/dotzsh) - Community driven framework for zsh.
+* [lacy](https://github.com/lacymorrow/lacy) - ZSH/Bash plugin that detects natural language and routes it to AI agents. Commands run normally, questions go to AI.
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Delightful community-driven framework for managing your zsh configuration.
 * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
