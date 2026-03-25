@@ -135,6 +135,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
+* [Yaw](https://yaw.sh) - Cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
 
 **[⬆ back to top](#table-of-contents)**
