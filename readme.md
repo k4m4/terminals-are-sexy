@@ -231,6 +231,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
 * [htop](https://hisham.hm/htop/) - Cool looking and interactive process viewer 'replacement' for the top command.
+* [gitty](https://github.com/Omibranch/gitty) - Single-binary Git+GitHub CLI: stage, commit, and push with one command.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 * [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
 * [jaymock-cli](https://github.com/unmock/jaymock-cli) - Mock an API and generate fake JSON test data, right from the terminal.
