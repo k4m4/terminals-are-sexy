@@ -126,6 +126,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
+* [Onepilot](https://onepilotapp.com) - Terminal emulator for iOS with SSH, built for running Claude Code, Codex, and other CLI tools on remote servers.
 * [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 * [Terminator](https://github.com/gnome-terminator/terminator) - Multiple GNOME terminals in one window.
 * [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
