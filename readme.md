@@ -10,6 +10,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 [![GitHub Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy.svg)](https://github.com/k4m4/terminals-are-sexy/stargazers)
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for terminal workflow orchestration, automated CLI management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 1. [Shells](#shells)
