@@ -162,6 +162,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [homebrew](https://brew.sh/) - Missing package manager for macOS.
 * [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
 * [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
+* [brew-tui](https://github.com/MoLinesGitHub/Brew-TUI) - Visual terminal UI for Homebrew — browse, search, upgrade packages, manage services.
 
 ### Linux
 
