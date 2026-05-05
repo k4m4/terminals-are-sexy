@@ -239,6 +239,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [k](https://github.com/supercrabtree/k) - Directory listings for zsh with git features.
 * [kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
+* [lacy](https://github.com/lacymorrow/lacy) - ZSH/Bash plugin that auto-routes natural language to AI agents. Real-time color indicator shows routing before you press enter.
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
