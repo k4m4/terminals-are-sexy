@@ -318,6 +318,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 #### Misc
 
 * [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
+* [Terminal Je T'aime](https://terminaljetaime.com/) - Quick reference of essential macOS terminal commands, organized by category.
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 
 **[⬆ back to top](#table-of-contents)**
