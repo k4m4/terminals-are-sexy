@@ -112,6 +112,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy 3rd party terminal emulation applications.*
 
+* [AbsoluteTelnetSSH](https://www.celestialsoftware.net) - SSH and telnet client for Windows.  Supports smartcards and advanced authentication
 * [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
@@ -126,7 +127,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
-* [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 * [Terminator](https://github.com/gnome-terminator/terminator) - Multiple GNOME terminals in one window.
 * [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 * [Terminus](https://github.com/Eugeny/terminus) - Cross-platform terminal for a more modern age, based on web technologies.
