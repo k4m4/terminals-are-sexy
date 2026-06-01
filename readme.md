@@ -261,7 +261,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
-* [tsm](https://github.com/ahmedsaid47/tsm) - SSH-first tmux session manager and dashboard tailored for AI coding agents.
+* [tsm](https://github.com/ahmedsaid47/tsm) - SSH-first tmux session manager and status dashboard.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
 * [tre](https://github.com/dduan/tre) - Improved `tree` command that knows git, creates shell alias for quick opening, and more!
 * [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
