@@ -52,6 +52,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 ### ZSH
 
 * [alf](https://github.com/psyrendust/alf) - Out of this world super fast and configurable framework for zsh.
+* [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt — no command, no prefix — get an AI answer (Claude/Codex) and run any suggested commands from an interactive menu.
 * [ant-zsh](https://github.com/anthraxx/ant-zsh) - Tiny and lightweight ZSH configuration environment for special customization needs.
 * [antibody](https://github.com/getantibody/antibody) - Faster and simpler antigen written in Golang.
 * [antigen](https://github.com/zsh-users/antigen) - Plugin manager for zsh, inspired by oh-my-zsh and vundle.
