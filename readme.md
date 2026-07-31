@@ -242,6 +242,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
+* [MatrixShader](https://github.com/matrixshader/matrix-shader) - GPU-powered Matrix rain for Windows Terminal with multi-window color coding and live parameter control.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
