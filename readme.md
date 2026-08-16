@@ -220,6 +220,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
 * [dry](https://github.com/moncho/dry) - Docker manager for the terminal.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
+* [ferrisfetch](https://github.com/kk376/ferrisfetch) - Fast and lightweight Linux system information fetch tool written in Rust.
 * [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 * [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
