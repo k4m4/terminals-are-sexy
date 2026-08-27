@@ -266,6 +266,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [vifm](https://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
+* [WorkGround2](https://github.com/KiddPhenix/WorkGround2) - Local-first AI engineering workbench with a terminal UI and desktop app.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 * [yadm](https://yadm.io) - Seamless git-based management of your dotfiles.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
