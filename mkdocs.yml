@@ -4,7 +4,11 @@ site_description: A curated list of sexy Terminal frameworks, extensions & resou
 site_author: Nikolaos Kamarinakis
 repo_url: https://github.com/k4m4/terminals-are-sexy
 edit_uri: ''
-theme: cinder
+theme:
+    name: cinder
+    custom_dir: custom_theme/
+extra_css:
+    - 'index.css'
 google_analytics: ['UA-91770911-1', 'terminalsare.sexy']
 nav:
 - 'Terminals Are Sexy': 'index.md'

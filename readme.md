@@ -1,4 +1,4 @@
-[![Terminals_Are_Sexy_Logo](https://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](https://terminalsare.sexy/)
+[![Terminals_Are_Sexy_Logo](https://camo.githubusercontent.com/e9d11666cb60e6a6781dd8676ac06b9a1233bdfcbb603ac60eccd5f5c1a8ed33/68747470733a2f2f7765622e617263686976652e6f72672f7765622f323031373038323032303130313369665f2f687474703a2f2f6e696b6f6c61736b616d612e6d652f636f6e74656e742f696d616765732f323031372f30322f7465726d696e616c735f6172655f736578792e706e67)
 
 # Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -8,6 +8,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 [![Build Status](https://travis-ci.org/k4m4/terminals-are-sexy.svg?branch=master)](https://travis-ci.org/k4m4/terminals-are-sexy)
 [![GitHub Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy.svg)](https://github.com/k4m4/terminals-are-sexy/stargazers)
+
 
 ## Table of Contents
 
@@ -126,13 +127,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-* [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
+* [Terminator](https://github.com/gnome-terminator/terminator) - Multiple GNOME terminals in one window.
 * [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 * [Terminus](https://github.com/Eugeny/terminus) - Cross-platform terminal for a more modern age, based on web technologies.
 * [Termite](https://github.com/thestinger/termite/) - Keyboard-centric terminal, aimed at use within a tiling window manager.
 * [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux and Unix.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
-* [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
@@ -206,7 +206,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy Applications for your Command Line Interface.*
 
-* [ack2](https://github.com/beyondgrep/ack2) - Greplike tool, optimized for programmers.
+* [ack3](https://github.com/beyondgrep/ack3) - Greplike tool, optimized for programmers.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [autojump](https://github.com/wting/autojump) - cd command that learns
@@ -272,6 +272,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [z](https://github.com/rupa/z) - Tool to jump to folders based on history matching a given regex
 * [z.lua](https://github.com/skywind3000/z.lua) - New cd command that helps you navigate faster by learning your habits.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - cd anywhere without typing in long paths.
 
 **[⬆ back to top](#table-of-contents)**
 
