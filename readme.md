@@ -125,6 +125,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [KiTTY](http://kitty.9bis.net/) - Fork from version 0.70 of PuTTY, the best telnet / SSH client in the world.
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
+* [Moku](https://github.com/wilsen0/moku) - Cross-platform SSH/Mosh terminal workspace with a custom Rust core (28 MB/s ANSI throughput), built to resume remote AI coding sessions (Claude Code, Codex, OpenCode).
 * [Mosh](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 * [Terminator](https://github.com/gnome-terminator/terminator) - Multiple GNOME terminals in one window.
