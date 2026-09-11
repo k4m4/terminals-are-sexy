@@ -225,6 +225,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface.
 * [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Checking the latest news headlines from various news outlets on the web.
+* [gitfault](https://github.com/kenji-rasmussen/gitfault) - Find the fault lines in any codebase from its git history.
 * [glances](https://github.com/nicolargo/glances) - top/htop alternative.
 * [googler](https://github.com/jarun/googler) - Search Google from your terminal.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
